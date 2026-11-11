@@ -1,0 +1,2526 @@
+customer_id,signup_date,country,acquisition_channel,birth_year
+1,2024-09-12,Greece,Email,1987
+2,2025-03-14,Austria,Organic Search,1987
+3,2025-11-07,Greece,Organic Search,1981
+4,2024-06-24,France,Organic Search,1988
+5,2024-11-26,Greece,Organic Search,2005
+6,2025-01-13,France,Paid Social,1997
+7,2025-03-31,Greece,Paid Search,1977
+8,2024-07-10,Austria,Paid Social,1999
+9,2025-02-18,Italy,Paid Search,2003
+10,2025-04-28,Greece,Email,1963
+11,2025-01-27,Italy,Organic Search,1973
+12,2025-10-05,Germany,Organic Search,1992
+13,2024-06-03,Greece,Paid Search,1981
+14,2025-01-28,Greece,Email,1961
+15,2025-07-13,Italy,Paid Search,
+16,2025-12-13,Italy,Paid Social,1974
+17,2024-06-24,Greece,Referral,1992
+18,2025-04-03,Netherlands,Referral,1981
+19,2024-10-16,Greece,Paid Search,1962
+20,2024-08-04,Greece,Organic Search,1957
+21,2025-01-12,GERMANY,Paid Search,
+22,2025-05-03,Greece,Paid Social,1962
+23,2025-01-02,Greece,Paid Search,1999
+24,2024-05-22,Germany,Paid Social,1968
+25,2024-09-05,Greece,,
+26,2025-07-31,Greece,Paid Social,1961
+27,2025-11-02,Italy,Paid Search,1977
+28,2025-03-01,Germany,Organic Search,2002
+29,2025-06-30,France,Paid Social,1987
+30,2025-08-15,Germany,Email,1969
+31,2025-04-27,Cyprus,Referral,1993
+32,2024-02-08,Greece,Paid Social,1980
+33,2024-10-23,France,Email,1966
+34,2025-08-02,Greece,Paid Social,2005
+35,2025-02-28,Greece,Email,2002
+36,2025-07-20,Netherlands,Email,1983
+37,2025-07-18,Italy,Referral,1956
+38,2024-02-25,Germany,Paid Search,
+39,2025-01-01, Greece ,Paid Social,1981
+40,2025-04-18,Greece,Organic Search,2002
+41,2025-02-04,Cyprus,Email,1992
+42,2024-08-29,Italy,Organic Search,1966
+43,2025-02-15,Cyprus,Organic Search,1981
+44,2025-03-19,Greece,Referral,1964
+45,2024-02-28,Greece,Paid Social,1979
+46,2025-09-28,Germany,Paid Social,1982
+47,2025-04-14,Italy,Paid Search,
+48,2025-06-10,Greece,Organic Search,1976
+49,2024-06-17,Greece,Organic Search,1977
+50,2024-06-29,Greece,Organic Search,1995
+51,2024-05-07,Greece,Organic Search,1980
+52,2025-10-21,Germany,Referral,1957
+53,2025-05-22,Greece,Referral,
+54,2024-07-23,Germany,Email,1986
+55,2024-08-21,France,,1990
+56,2025-01-03,Austria,Paid Social,1991
+57,2025-06-30,Spain,,1963
+58,2024-07-30, Greece ,Email,2004
+59,2025-01-16,Greece,Email,2005
+60,2025-01-02,Greece,Organic Search,1962
+61,2025-04-10,Italy,Referral,1966
+62,2025-01-16,Greece,Referral,1967
+63,2025-09-19,Greece,Paid Social,2004
+64,2024-04-22,GREECE,Email,2002
+65,2025-09-26,Greece,Email,1968
+66,2025-07-05,Italy,Organic Search,1987
+67,2025-10-13,Italy,Organic Search,1967
+68,2025-06-05,Germany,Email,1956
+69,2025-02-01,Spain,Paid Search,1966
+70,2024-07-22,GR,Email,1958
+71,2025-08-01,Greece,Email,1998
+72,2024-10-13,Greece,Email,1995
+73,2025-03-14,Italy,Paid Social,1964
+74,2024-06-10,Deutschland,Organic Search,1983
+75,2025-08-23,Greece,Paid Social,1965
+76,2025-07-25,Spain,Paid Search,1983
+77,2024-12-03, Greece ,Referral,2000
+78,2025-11-05,Greece,Paid Search,
+79,2024-10-20,Germany,Organic Search,1997
+80,2024-12-26,Spain,Paid Social,1967
+81,2025-10-22,Italy,Email,1964
+82,2025-01-28,Spain,Organic Search,1963
+83,2024-03-18,Greece,Organic Search,1961
+84,2025-01-12,Germany,Referral,1986
+85,2025-06-27,France,Email,
+86,2025-12-05,Germany,Email,2000
+87,2025-03-25,Greece,Organic Search,1959
+88,2025-10-16,Austria,Paid Social,1968
+89,2025-07-10,Greece,Organic Search,1992
+90,2025-05-11,Greece,Organic Search,1989
+91,2024-08-17,Netherlands,Paid Social,1976
+92,2025-07-29,Spain,Paid Social,1962
+93,2025-11-24,Austria,Paid Search,1979
+94,2025-07-30,Netherlands,Paid Social,1963
+95,2025-02-11,Greece,Organic Search,1982
+96,2025-08-25,Spain,Organic Search,
+97,2024-12-23,Cyprus,Referral,1964
+98,2024-06-29,Italy,Organic Search,
+99,2024-09-30,Greece,Organic Search,1992
+100,2025-03-06,France,Paid Social,1956
+101,2024-11-25,Germany,Organic Search,2005
+102,2025-03-14,Netherlands,Email,1994
+103,2025-07-26,GREECE,Paid Social,1975
+104,2025-01-19,Greece,Organic Search,1973
+105,2025-03-28,CYPRUS,Referral,
+106,2025-09-19,Greece,Paid Social,1975
+107,2025-08-05,Italy,Email,1997
+108,2025-03-13,Greece,Organic Search,1995
+108,2025-03-13,Greece,Organic Search,1995
+109,2025-10-19,Germany,Email,1965
+110,2025-10-08,Greece,Organic Search,1964
+111,2025-06-09,Greece,Paid Social,1982
+112,2025-03-17, Germany ,Organic Search,1988
+113,2025-08-26,Greece,Paid Search,
+114,2024-03-06,Greece,Organic Search,1970
+115,2024-09-10,Greece,Paid Search,1979
+116,2025-05-05,Greece,Paid Search,1960
+117,2024-09-20,Germany,Paid Social,1978
+118,2025-09-02,Greece,Paid Social,1990
+119,2025-09-08,Greece,Paid Social,1970
+120,2025-01-11,Italy,Paid Search,1971
+121,2025-05-07,Germany,Email,1978
+122,2025-05-31,Germany,Paid Social,1999
+123,2025-08-18,Greece,Organic Search,1985
+124,2025-08-01,Spain,Paid Search,2001
+125,2024-11-07,Greece,Organic Search,1958
+126,2025-04-09,Greece,Organic Search,1998
+127,2025-10-15,Spain,Organic Search,1957
+128,2024-08-17,Italy,Paid Social,1971
+129,2024-01-09,Germany,Paid Search,1976
+130,2024-11-17,Netherlands,Referral,1967
+131,2024-09-14,Greece,Organic Search,2005
+132,2025-04-12,France,,2000
+133,2024-10-30,Italy,Referral,1984
+134,2025-11-23,Greece,Paid Social,1978
+135,2025-07-27,Greece,,1993
+136,2025-07-25,Greece,Paid Social,1991
+137,2025-10-05,Spain,Email,1979
+138,2024-12-04,GR,Paid Search,1997
+139,2024-03-19,Greece,Email,1964
+140,2024-05-11,Italy,Organic Search,1969
+141,2024-10-28,Italy,Referral,1955
+142,2025-04-21,Greece,Organic Search,1961
+143,2025-06-05,France,Paid Search,1965
+144,2025-04-02,Germany,Paid Social,1986
+145,2024-09-15,Netherlands,Organic Search,1998
+146,2024-03-09,Greece,Paid Social,1985
+147,2025-05-20,Greece,Organic Search,1977
+148,2025-06-28,Germany,Organic Search,1968
+149,2024-06-09, Greece ,Email,1960
+150,2025-08-14,Germany,Referral,1984
+151,2024-12-01,Greece,Paid Search,1962
+152,2025-05-08,France,Paid Social,1995
+153,2025-07-02,Netherlands,Organic Search,1975
+154,2025-12-21,France,Paid Social,1972
+155,2025-07-02,Spain,Paid Social,1956
+156,2025-01-20,Spain,Organic Search,1967
+157,2024-07-14,Cyprus,Paid Search,1955
+158,2024-12-01,Greece,Paid Search,1991
+159,2025-10-18,Netherlands,Organic Search,1979
+160,2024-12-04,Spain,Referral,1995
+161,2024-07-15,Austria,Email,1983
+162,2025-08-01,France,Organic Search,2003
+163,2025-06-18,Greece,Email,1994
+164,2025-05-30,Spain,Organic Search,1962
+165,2025-03-10,Spain,Organic Search,
+166,2025-04-08,Italy,Paid Search,2000
+167,2025-11-19,Netherlands,Email,1968
+168,2025-04-20,Germany,Organic Search,1994
+169,2025-12-18,Spain,Paid Social,1987
+170,2025-02-18,Greece,Paid Search,1990
+171,2024-02-07,Netherlands,Paid Social,1968
+172,2025-11-06,Greece,Paid Search,1970
+173,2025-03-06,Greece,Paid Search,1983
+174,2025-06-21,Greece,Paid Social,1956
+175,2025-07-05,Cyprus,Email,1970
+176,2025-03-12,Greece,Email,1980
+177,2024-12-27,Spain,Referral,1965
+178,2025-10-28,Germany,Paid Social,1969
+179,2024-10-27,Netherlands,Organic Search,
+180,2024-08-21,Greece,Organic Search,1969
+181,2025-03-17, Greece ,Email,2001
+182,2024-07-28,France,Referral,2002
+183,2024-03-15,Italy,Referral,1989
+184,2024-08-28,Germany,Email,1962
+185,2025-07-10,France,Organic Search,1965
+186,2025-05-18,Netherlands,Organic Search,2002
+187,2025-03-13,Germany,Referral,1955
+188,2024-10-19,Austria,Paid Social,
+189,2025-04-14,Italy,Referral,1985
+190,2025-09-07,Italy,Organic Search,1997
+191,2024-10-21,Greece,Paid Social,2000
+192,2025-01-06,Greece,,1969
+193,2025-12-08,Greece,Organic Search,1980
+194,2025-03-16,France,Organic Search,1987
+195,2024-02-27,Italy,Email,2004
+196,2024-07-20,Greece,Email,1983
+197,2024-02-13,Germany,Paid Search,
+198,2025-06-09,Greece,Paid Search,2002
+199,2024-10-30,Greece,Referral,1981
+200,2024-03-25,Spain,Organic Search,1964
+201,2024-01-15,Greece,Paid Social,1964
+202,2024-03-26,Greece,Paid Search,1965
+203,2024-03-04,Cyprus,Paid Social,1991
+204,2025-05-27,Greece,Paid Search,2003
+205,2025-12-07,Italy,Email,1977
+206,2024-12-27,Austria,Organic Search,1959
+207,2024-11-11,Germany,Paid Social,
+208,2024-07-26,GERMANY,Email,1987
+209,2025-09-01,Greece,Organic Search,1984
+210,2024-09-19,Germany,Paid Social,1958
+211,2024-04-22,Greece,Referral,2004
+212,2025-07-24,Greece,Organic Search,1958
+213,2025-09-20,Netherlands,Paid Social,1986
+214,2024-08-28,Cyprus,Email,1985
+215,2025-09-20,Cyprus,Referral,1981
+216,2024-03-21,Greece,Paid Social,1983
+217,2024-05-23,France,Paid Search,1975
+218,2025-04-22,Greece,Paid Search,1984
+219,2025-05-17,Greece,Paid Social,1973
+220,2025-08-25,Netherlands,Organic Search,1979
+221,2025-08-10,Cyprus,Referral,1989
+222,2024-02-06,Spain,Organic Search,1992
+223,2025-04-14,Greece,Paid Search,1962
+224,2024-12-07,Italy,Email,2005
+225,2025-09-26,Austria,Paid Social,1959
+226,2025-04-17,Germany,Email,1969
+227,2025-09-19,Italy,Paid Social,1972
+228,2024-10-04,Greece,Paid Search,1971
+229,2025-07-21,France,Organic Search,1972
+230,2024-11-11,Spain,,1971
+231,2025-01-29,Italy,Organic Search,1977
+232,2024-07-20,Spain,Referral,
+233,2025-12-04,Germany,,1997
+234,2025-09-26,Germany,Paid Social,1972
+235,2024-06-16,Greece,Organic Search,
+236,2025-07-01,Italy,Referral,1989
+237,2025-08-27,Netherlands,Paid Search,
+238,2025-10-09,Germany,Paid Social,1977
+239,2024-11-17,Greece,Paid Social,1966
+240,2025-02-22, Germany ,Referral,1985
+241,2024-02-07,France,Organic Search,
+242,2025-04-09,Spain,Email,1997
+243,2024-03-12,Greece,Paid Social,1968
+244,2024-12-13,Greece,Organic Search,1981
+245,2025-11-15,GR,Paid Search,1984
+246,2025-11-28,Greece,Paid Social,1979
+247,2025-10-28,Austria,Paid Search,1977
+248,2024-01-05,Cyprus,Email,1968
+249,2025-11-30,Germany,Paid Social,
+250,2025-12-03,Greece,Paid Social,1981
+251,2024-12-18,Cyprus,Paid Social,1966
+252,2024-12-15,Austria,Referral,1968
+253,2025-04-27,Cyprus,Email,1977
+254,2025-05-02,Greece,Referral,1998
+255,2025-10-07,Greece,Paid Social,2004
+256,2025-09-07,Austria,Organic Search,1974
+257,2024-06-23,Austria,Organic Search,1975
+258,2025-10-16,Greece,Referral,1961
+259,2025-11-30,Germany,Paid Social,1982
+260,2025-09-22,Greece,Paid Social,1967
+261,2025-12-21,Germany,Paid Social,
+262,2025-08-20,Greece,,1982
+263,2024-10-08,France,Email,1966
+264,2025-08-16,Spain,Email,2001
+265,2025-07-29,Greece,Paid Search,1996
+266,2025-12-06,Cyprus,Organic Search,1970
+267,2025-10-28,Greece,Email,1961
+268,2024-06-07,Greece,Organic Search,1968
+269,2025-08-19,Greece,Referral,1974
+270,2025-04-06,Greece,Email,
+271,2025-12-05,Austria,Paid Social,1996
+272,2024-05-22,Greece,Referral,2004
+273,2024-11-03,Netherlands,Paid Social,1993
+274,2024-11-29,Greece,Organic Search,1998
+275,2024-02-21,Germany,Paid Social,1961
+276,2024-07-27,Cyprus,Organic Search,1962
+277,2024-08-15,Spain,Paid Search,2001
+278,2025-03-21,Greece,Referral,
+279,2025-01-16,Greece,,1967
+280,2025-12-13,Italy,Paid Search,1995
+281,2025-10-27,Italy,Referral,1963
+282,2024-12-29,Italy,Paid Social,1994
+283,2025-11-04,Greece,Organic Search,2000
+284,2025-02-15,Greece,Paid Social,1979
+285,2025-08-20,France,Paid Search,1988
+286,2025-10-12,Germany,Paid Search,1992
+287,2024-02-18,Germany,Referral,1999
+288,2025-11-13,Greece,Organic Search,1984
+289,2024-02-29,Greece,Organic Search,1969
+290,2025-06-14,Spain,Paid Search,1965
+291,2025-08-14,Italy,Organic Search,1973
+292,2024-02-10,Greece,Email,1957
+293,2025-08-06,Spain,Paid Social,1990
+294,2025-06-18,Germany,Paid Social,1973
+295,2024-07-18,Greece,Email,1991
+296,2024-11-18,Greece,Paid Search,1958
+297,2024-12-18,Italy,Referral,1971
+298,2025-07-28,Greece,Paid Social,1975
+298,2025-07-28,Greece,Paid Social,1975
+299,2024-11-23,Germany,Paid Social,1959
+300,2024-02-22,Italy,Paid Search,1997
+301,2024-10-07,Greece,Email,1985
+302,2024-02-29,Spain,Paid Social,1998
+303,2025-08-20,Greece,,1995
+304,2025-03-18,Greece,Organic Search,1956
+305,2025-08-10,Italy,Organic Search,1999
+306,2024-01-23,Germany,Paid Search,1958
+307,2025-03-11,Cyprus,Email,1999
+308,2025-06-09, Germany ,Organic Search,1989
+309,2025-11-26,Spain,Organic Search,1996
+310,2024-11-06,France,Paid Search,1980
+311,2025-08-07,France,Email,1963
+312,2025-06-10,Greece,Email,1962
+313,2025-05-01,Greece,Organic Search,1961
+314,2025-09-24,Germany,,
+315,2025-03-30,Greece,Paid Search,1982
+316,2024-02-17,France,Paid Social,1966
+317,2025-02-23,Greece,Paid Social,1961
+318,2025-02-08,Greece,Email,1958
+319,2024-12-14,Greece,Paid Search,1968
+320,2025-12-11,Greece,Referral,
+321,2025-07-04,Greece,Paid Search,2000
+322,2025-10-21,Germany,Email,
+323,2024-06-16,Germany,Paid Social,2005
+324,2024-06-24,Greece,Paid Social,1975
+325,2024-10-28,Greece,Referral,1971
+326,2024-09-07,France,Organic Search,1990
+327,2024-09-19,Greece,Organic Search,
+328,2025-08-19,Germany,Referral,2001
+329,2025-05-26,Germany,Paid Social,1994
+330,2025-09-07,Germany,Referral,1956
+331,2024-11-09,Netherlands,Organic Search,1964
+332,2025-06-21,Germany,Paid Social,1987
+333,2025-05-11,Austria,Organic Search,1992
+334,2024-11-13,Netherlands,Email,1966
+335,2025-09-07,Greece,Referral,1993
+336,2025-03-25,Greece,Paid Social,1979
+337,2024-08-04,GREECE,Paid Social,1989
+338,2024-12-29,Greece,Organic Search,
+339,2025-05-03,Germany,Referral,1978
+340,2024-01-09,Greece,Paid Search,1974
+341,2025-05-08,Greece,Referral,1963
+342,2025-03-11,Greece,Organic Search,1964
+343,2024-09-17,Italy,,1963
+344,2025-06-05,Italy,Organic Search,1995
+345,2025-07-01,Austria,Organic Search,1976
+346,2024-04-18,Greece,Organic Search,1974
+347,2025-04-02,Greece,Organic Search,
+348,2024-05-20,Austria,Organic Search,2000
+349,2025-11-24,Italy,Referral,1966
+350,2025-02-18,Germany,Organic Search,1973
+351,2025-09-08,Germany,Referral,1975
+352,2024-10-22,Greece,,1997
+353,2024-07-23,Netherlands,Email,1989
+354,2025-06-29,Germany,Paid Social,1982
+355,2024-09-09,Germany,Referral,1966
+356,2025-08-12,Germany,Organic Search,1974
+357,2025-09-02,Greece,Paid Social,
+358,2024-09-14,Greece,Paid Social,1990
+359,2024-06-10,France,Paid Search,2001
+360,2025-08-09,Germany,Referral,1995
+361,2025-03-13,Greece,Paid Search,1970
+362,2025-05-20,Greece,Email,1979
+363,2025-11-14,Spain,Paid Social,
+364,2025-07-25,Greece,Paid Search,1976
+365,2024-03-27,Greece,Paid Search,1997
+366,2024-10-23,Germany,,1984
+367,2025-11-09,France,Paid Search,1980
+368,2025-10-12,Italy,Paid Search,1984
+369,2025-12-19,Netherlands,Paid Social,1966
+370,2024-09-15,Greece,Organic Search,1976
+371,2024-08-16,Spain,Organic Search,1970
+372,2024-04-16,Spain,Referral,1993
+373,2024-04-18,Germany,Organic Search,
+374,2025-05-16,Germany,Paid Social,1975
+375,2025-02-06,Greece,Email,1996
+376,2024-08-05,Cyprus,Paid Search,1978
+377,2024-01-17,Greece,Paid Search,2003
+378,2025-10-02,Greece,Referral,1985
+379,2025-05-05,Austria,Paid Social,2000
+380,2025-07-28,Greece,Organic Search,2005
+381,2025-04-05,Germany,Email,1971
+382,2025-10-23,Greece,Organic Search,1968
+383,2024-04-26,Greece,Email,1997
+384,2024-03-24,Greece,Paid Search,
+385,2025-12-18,Greece,Email,1993
+386,2025-03-14,Germany,Email,1964
+387,2025-03-15,Austria,Email,1999
+388,2024-03-21,Cyprus,Paid Search,1990
+389,2025-08-21,Austria,Paid Social,1981
+390,2025-12-02,Italy,Paid Social,1977
+391,2025-02-04,Germany,Organic Search,1987
+392,2025-05-13,Greece,Email,1974
+393,2024-12-27,Greece,Organic Search,1975
+394,2025-06-05,Netherlands,Paid Social,1965
+395,2024-08-13,Germany,Referral,1963
+396,2024-05-31,Greece,Organic Search,2000
+397,2025-02-08,France,Email,1993
+398,2025-10-17,Greece,Organic Search,1977
+399,2025-10-12,France,Organic Search,
+400,2024-07-28,Greece,,1985
+401,2024-01-02,Spain,Organic Search,1985
+402,2024-01-06,Greece,Paid Search,1960
+403,2024-09-09,Greece,Paid Search,1982
+404,2025-02-28,Italy,Referral,1960
+405,2025-04-17,Greece,Email,1989
+406,2025-01-25,Spain,Referral,1958
+407,2024-03-23,Italy,Paid Search,1981
+408,2024-11-18,Greece,Paid Social,1973
+409,2025-06-23,Greece,Organic Search,1961
+410,2025-06-02,Spain,Referral,
+411,2025-11-13,Germany,Paid Search,1965
+412,2024-11-30,Netherlands,Organic Search,1967
+413,2024-09-22,Greece,Paid Social,2000
+414,2025-04-08,Spain,Paid Social,
+415,2024-08-04,Germany,Paid Social,1975
+416,2025-05-26,Italy,Referral,1955
+417,2025-09-14,Greece,Paid Social,1970
+418,2025-03-08,Greece,Paid Search,1972
+419,2025-07-21,Spain,Referral,1991
+420,2024-11-30,Austria,Organic Search,1961
+421,2024-11-21,Greece,Referral,2002
+422,2025-06-01,SPAIN,Referral,1961
+423,2025-01-01,Greece,Paid Social,1988
+424,2024-01-10,Greece,,1955
+425,2025-07-21,Greece,Paid Search,1996
+426,2024-09-12,Greece,Paid Social,1990
+427,2024-06-09,Greece,Organic Search,1997
+428,2024-01-09,Greece,Paid Social,2002
+429,2024-02-28,Greece,Organic Search,1997
+430,2024-08-29,Italy,Email,1986
+431,2025-07-18,France,Organic Search,1997
+432,2024-03-15,Italy,Email,1959
+433,2025-07-19,Greece,Paid Social,1987
+434,2024-10-16,France,Paid Search,1900
+435,2025-06-12,Greece,Paid Social,1974
+436,2025-11-27,FRANCE,Paid Search,2004
+437,2025-09-21,Germany,Paid Search,
+438,2025-03-13,GREECE,Organic Search,1978
+439,2024-09-26,Greece,Email,1970
+439,2024-09-26,Greece,Email,1970
+440,2025-10-23,France,Organic Search,1960
+441,2025-01-06,Spain,Paid Search,1999
+442,2025-12-01,Italy,Email,1991
+443,2024-08-07,Austria,Organic Search,1975
+444,2025-07-20,Spain,Organic Search,2004
+445,2024-06-24,Greece,Paid Social,1964
+446,2025-03-15,Italy,Referral,1994
+447,2025-10-26,Greece,Referral,1978
+448,2024-09-26,Cyprus,Organic Search,1986
+449,2024-05-27,Greece,Paid Social,1956
+450,2025-09-24,Austria,Paid Social,1986
+451,2024-02-28,Italy,Email,1989
+452,2024-12-09,Greece,Organic Search,2004
+453,2024-09-19,Greece,Paid Social,1972
+454,2024-12-28,Cyprus,Paid Search,1958
+455,2025-06-19,Italy,Paid Social,1958
+456,2024-11-09,Spain,Referral,1962
+457,2025-04-23,Greece,Paid Social,1970
+458,2024-08-14,Cyprus,Paid Social,1997
+459,2025-06-15,Germany,Email,1964
+460,2025-10-25,Greece,Organic Search,1962
+461,2025-07-28,Germany,Organic Search,1956
+462,2025-06-17,Greece,Paid Search,1974
+463,2024-09-15,Greece,Paid Search,1985
+464,2025-07-03,Greece,Referral,1969
+465,2024-12-03,Spain,Organic Search,1980
+466,2025-10-03,Greece,Organic Search,1967
+467,2025-11-03,Greece,Organic Search,
+468,2024-11-30,Italy,Paid Search,1956
+469,2024-11-13,Spain,Referral,1965
+469,2024-11-13,Spain,Referral,1965
+470,2025-09-05,Cyprus,Paid Social,1983
+471,2024-09-03,Greece,Paid Search,1997
+472,2024-03-26,Italy,Organic Search,1975
+473,2025-05-04,Greece,Email,
+474,2024-06-11,Italy,Organic Search,1983
+475,2025-08-30,Greece,,1968
+476,2024-07-28,Greece,Paid Search,1970
+477,2025-04-19,Greece,Paid Search,2002
+478,2025-04-04,ITALY,Organic Search,2003
+479,2024-10-28,Greece,Organic Search,1968
+480,2025-08-18,Greece,Email,1985
+481,2025-01-03,Cyprus,Organic Search,
+482,2024-07-09,France,Email,2004
+483,2024-08-03,Greece,Email,2003
+484,2025-04-23,Italy,Organic Search,1972
+485,2025-02-16,Italy,Organic Search,1956
+486,2025-11-05,Greece,Organic Search,1955
+487,2024-08-28,Austria,Paid Search,1955
+488,2025-07-23,Netherlands,Paid Social,1994
+489,2025-06-28,Greece,Email,1992
+490,2025-09-30,Greece,Paid Social,1997
+491,2025-08-02,Greece,Referral,1962
+492,2025-04-14,Greece,Organic Search,1957
+493,2024-02-22,Germany,Organic Search,1963
+494,2024-09-23,Spain,Referral,1986
+495,2025-06-14,Netherlands,Referral,1955
+496,2025-02-06,Greece,Organic Search,1988
+497,2025-12-04,Cyprus,Paid Social,2000
+498,2024-12-31,Greece,Paid Search,1962
+499,2024-01-16,Germany,Organic Search,1992
+500,2024-11-03,Greece,Organic Search,1983
+501,2025-03-14,Spain,Paid Social,2003
+502,2024-12-03,Netherlands,Organic Search,1967
+503,2025-04-09,Greece,Email,1966
+504,2025-10-23,Italy,Email,1955
+505,2024-02-13,Germany,Paid Social,1990
+506,2024-05-09,France,Email,1999
+507,2025-09-10,Cyprus,Paid Social,1955
+508,2025-10-19,Greece,Referral,1980
+509,2024-11-09,Germany,Organic Search,1991
+510,2024-01-20,Greece,Paid Social,1994
+511,2024-10-15,Germany,Email,2002
+512,2025-02-09,Greece,Paid Social,1991
+513,2025-05-02,Italy,Organic Search,2001
+514,2024-10-25,France,Paid Social,2005
+515,2024-12-21,Greece,Referral,2002
+516,2025-12-03,Greece,Organic Search,1977
+517,2024-09-15,Italy,Referral,1975
+518,2025-11-15,Greece,Referral,1976
+519,2025-04-20,Germany,Email,2003
+520,2025-04-19,Italy,Organic Search,1969
+521,2024-05-20,Greece,Referral,1993
+522,2024-07-25,FRANCE,Organic Search,1986
+523,2024-03-28,Germany,Paid Search,1958
+524,2025-04-17,Germany,Referral,1979
+525,2025-01-27,Greece,Organic Search,1964
+526,2024-10-05,Greece,Referral,1992
+527,2024-05-22,Greece,Paid Social,1977
+528,2024-11-15,Spain,Paid Social,1973
+529,2024-09-17,Netherlands,Paid Social,1958
+530,2024-10-24,France,Email,1961
+531,2024-06-24,Greece,Referral,1993
+532,2025-11-15,Germany,Paid Search,1998
+533,2025-06-01,France,Organic Search,1969
+534,2025-03-07,Italy,Email,1997
+535,2025-02-28,Greece,Email,1983
+536,2024-02-23,Netherlands,Email,1972
+536,2024-02-23,Netherlands,Email,1972
+537,2024-11-24,Greece,Paid Social,1978
+538,2024-02-20,Greece,Paid Social,1990
+539,2025-09-09,Spain,Referral,2001
+540,2024-01-12,Cyprus,Paid Social,1980
+541,2024-12-10,Greece,Organic Search,1972
+542,2024-09-24,Germany,Paid Social,1993
+543,2025-04-20,Austria,Organic Search,1981
+544,2024-12-14,Greece,Organic Search,
+545,2024-01-29,France,Organic Search,1978
+546,2025-11-05,Greece,Email,1982
+547,2024-02-08,Greece,Paid Search,1962
+548,2025-03-01,Cyprus,Paid Social,
+549,2024-03-11,Germany,Organic Search,1988
+550,2025-08-18,Greece,Referral,1963
+551,2025-12-07,Greece,Organic Search,1982
+552,2024-06-16,Germany,Paid Search,1994
+553,2025-10-06,Germany,Email,
+554,2024-07-07,Italy,Organic Search,1974
+555,2025-07-21,France,Paid Social,2004
+556,2024-09-04,Greece,Paid Social,1956
+557,2025-09-03,Cyprus,Referral,1993
+558,2025-03-21,Cyprus,Organic Search,1963
+559,2024-11-12,Germany,Paid Search,2001
+560,2025-05-05,Greece,Referral,1975
+561,2025-07-12,Greece,Paid Search,1955
+562,2024-10-31,Greece,Paid Search,1991
+563,2024-07-07,Greece,Organic Search,1962
+564,2025-03-15,Austria,Paid Social,1973
+565,2024-09-17,Germany,Paid Search,1980
+566,2025-08-29,Cyprus,Paid Social,1993
+567,2025-02-23,Germany,Organic Search,1976
+568,2025-03-13,Italy,Organic Search,1998
+569,2024-05-23,Cyprus,Organic Search,1979
+570,2024-11-07,Cyprus,Paid Search,1972
+571,2025-06-20,Italy,Paid Social,1972
+572,2024-11-12,Greece,Email,1995
+573,2024-02-28,Germany,Paid Search,
+574,2024-08-01,Germany,Organic Search,1961
+575,2025-03-07,France,Referral,1993
+576,2025-02-02,Austria,Organic Search,
+577,2025-05-16,France,Organic Search,1972
+578,2024-08-09,Germany,Organic Search,1959
+579,2025-01-11,Greece,Paid Social,
+580,2024-10-06,Germany,Paid Social,1957
+581,2024-11-12,France,Paid Social,2005
+582,2024-09-03,Spain,Organic Search,1958
+583,2025-08-09,France,Organic Search,1980
+584,2024-04-19,Greece,Email,
+585,2025-09-18,Italy,Organic Search,1980
+586,2025-03-28,Netherlands,Referral,1997
+587,2024-04-01,Italy,Paid Search,1985
+588,2024-03-13,Italy,Referral,1982
+589,2025-10-18,Germany,Email,1961
+590,2024-09-06,Germany,Email,2003
+590,2024-09-06,Germany,Email,2003
+591,2025-01-10,Greece,Email,1974
+592,2024-06-23,Greece,Paid Search,
+593,2025-08-07,France,Paid Search,2000
+594,2024-02-02,Spain,Paid Social,1987
+595,2024-08-11,Netherlands,Email,1992
+596,2024-12-27,Greece,Referral,1964
+597,2024-10-22,Greece,Organic Search,1978
+598,2025-03-01,Greece,Paid Social,1982
+599,2024-09-20,Netherlands,Email,1963
+600,2024-03-23,Italy,Referral,1974
+601,2024-10-13,Austria,Paid Social,
+602,2025-05-05,Greece,Organic Search,2002
+603,2025-06-27,Germany,Organic Search,1996
+604,2025-09-15,France,Email,2002
+605,2024-06-21,Greece,Paid Search,2005
+606,2025-11-18,Austria,Paid Search,1965
+607,2025-06-12,Germany,Paid Social,1998
+608,2025-09-29,Greece,Organic Search,1986
+608,2025-09-29,Greece,Organic Search,1986
+609,2024-06-07,Greece,Referral,1998
+610,2025-01-13,Netherlands,Referral,
+611,2024-09-16,Germany,Paid Social,1961
+612,2025-07-13, France ,Paid Social,1983
+613,2025-09-23,France,Organic Search,1993
+614,2025-08-18,Cyprus,Referral,1961
+615,2024-04-13,France,Email,1980
+616,2025-08-18,Spain,Paid Social,1988
+617,2024-09-22,Greece,,
+618,2025-05-15,France,Email,1995
+619,2025-10-10,Greece,Paid Search,1961
+620,2024-07-01, Greece ,Paid Social,1972
+621,2024-06-05,Greece,Paid Social,2003
+622,2024-12-26,Netherlands,Paid Search,1981
+623,2025-01-27,Greece,Paid Search,
+624,2025-03-25,Cyprus,Paid Search,1960
+625,2024-04-18,Italy,Referral,1985
+626,2025-04-01,Greece,Paid Social,2002
+627,2024-12-09,France,Organic Search,1957
+628,2025-10-11,Spain,Paid Social,1960
+629,2025-02-19,Greece,Paid Search,1974
+630,2024-03-03,Greece,Paid Social,1965
+631,2024-01-27,Austria,Referral,1961
+632,2024-07-25,Greece,Paid Search,1970
+633,2025-10-25,Greece,,1987
+634,2025-05-18,Spain,Paid Search,1997
+635,2024-03-05,Netherlands,Email,1970
+636,2024-03-02,Italy,Paid Social,1990
+637,2024-04-10,Germany,Paid Search,1996
+638,2024-05-06,Spain,Organic Search,1955
+639,2025-02-10,Italy,Organic Search,1998
+640,2025-12-18,Italy,Paid Search,1964
+641,2025-09-22,Netherlands,Email,1989
+642,2025-02-15,Italy,Paid Social,1993
+643,2025-10-16,Germany,Organic Search,1998
+643,2025-10-16,Germany,Organic Search,1998
+644,2025-12-12,Greece,Paid Social,1975
+645,2025-05-04,Germany,Paid Search,1988
+646,2025-10-19,Germany,Email,1956
+647,2025-04-28,Greece,Paid Social,1977
+648,2025-12-15,Cyprus,Email,2004
+649,2025-12-05,France,Paid Search,1963
+650,2025-03-02,Greece,Paid Search,1962
+651,2024-07-22,Greece,Paid Social,
+652,2025-08-24,Greece,Email,1981
+653,2025-12-13,Greece,Organic Search,1978
+654,2025-11-26,France,Paid Social,1967
+655,2025-04-25,Cyprus,Organic Search,1963
+656,2025-11-14,Greece,Paid Social,1992
+656,2025-11-14,Greece,Paid Social,1992
+657,2025-06-16,France,Email,
+658,2025-01-24,Greece,Paid Social,1994
+659,2025-05-24,Greece,Organic Search,1977
+660,2025-11-08,France,Organic Search,1975
+661,2025-07-08,Germany,Organic Search,1966
+662,2025-04-22,France,Referral,1988
+663,2024-12-07,France,Organic Search,1969
+664,2025-01-04,SPAIN,Organic Search,2001
+665,2024-11-15,Greece,Paid Search,1975
+666,2025-06-09,France,Organic Search,1996
+667,2025-07-01,Italy,Paid Search,1978
+668,2025-07-03,Greece,Email,1976
+669,2025-04-02,Spain,Referral,1978
+670,2024-02-29,GREECE,Email,1977
+671,2025-07-01,Netherlands,Organic Search,1979
+672,2025-12-13,Germany,Paid Search,2000
+673,2025-03-26,Germany,Paid Search,1990
+674,2024-01-24,Greece,Paid Social,1956
+675,2024-11-14,Spain,Referral,1957
+676,2025-05-10,Germany,Paid Social,
+677,2025-10-09,Greece,Paid Search,1990
+678,2025-06-29,Greece,Referral,1965
+679,2025-01-16,France,Organic Search,1974
+680,2024-12-20,Greece,Paid Search,1997
+681,2025-05-09,Germany,Paid Search,1961
+682,2025-06-21,Italy,Referral,
+683,2025-01-05,GREECE,Organic Search,1959
+684,2025-04-26,Germany,Referral,1969
+685,2025-01-03,Greece,Email,1959
+686,2025-03-08,Spain,Paid Social,1987
+687,2024-11-30,Netherlands,Paid Search,1992
+688,2025-05-01,Greece,Email,1964
+689,2025-04-02,Germany,Paid Search,1981
+690,2025-10-08, Germany ,Email,1970
+691,2025-11-28,Austria,Organic Search,1959
+692,2025-06-09,Greece,Paid Search,1978
+693,2025-11-29,Germany,Email,1990
+694,2025-02-15,Spain,Paid Social,1966
+695,2025-07-27,Greece,Paid Social,1995
+696,2024-11-08,Germany,Organic Search,2005
+697,2025-03-07,Greece,Email,1957
+698,2024-12-19,Germany,Paid Social,1963
+699,2025-07-19,Greece,Paid Search,1969
+700,2024-09-15,Austria,Paid Search,1998
+701,2025-08-22,Greece,,
+702,2025-09-26,Greece,Organic Search,
+703,2024-06-04,France,Referral,1982
+704,2025-01-22,France,Organic Search,1961
+704,2025-01-22,France,Organic Search,1961
+705,2024-07-13,Italy,Paid Search,1957
+706,2025-02-23,Italy,Paid Social,1961
+707,2024-04-28,Greece,Paid Search,1957
+708,2024-09-21,Germany,Paid Social,1980
+709,2025-09-16,Greece,Organic Search,2002
+710,2024-09-04,Greece,Paid Search,1973
+711,2024-08-30,Spain,Paid Social,1968
+712,2025-01-16,Italy,Paid Search,1966
+713,2025-06-28,Greece,Paid Search,2005
+714,2025-12-13,Greece,Paid Social,2003
+715,2024-03-07,Spain,Paid Social,1988
+716,2025-08-17,Greece,Email,1978
+717,2025-09-01,Greece,Paid Search,1963
+718,2024-07-13,Greece,Paid Search,2002
+719,2024-02-22,Greece,Paid Social,1955
+720,2024-06-06,Greece,Referral,1963
+721,2025-10-08,Austria,Organic Search,1989
+722,2024-09-27,Greece,Email,1964
+723,2025-03-16,Germany,Referral,1960
+724,2025-10-15,Italy,Paid Search,1985
+725,2025-12-02,Germany,Paid Social,1956
+726,2024-07-09,Italy,Paid Social,1968
+727,2024-06-16,Italy,Organic Search,1987
+728,2024-06-16,Germany,Organic Search,1964
+729,2025-09-09,Germany,Paid Social,1993
+730,2025-10-27,France,Paid Search,1959
+731,2024-03-07,Italy,Paid Social,1986
+732,2024-03-05,France,Paid Social,1958
+733,2025-02-23,Greece,Referral,1992
+734,2025-09-10,Italy,Organic Search,1993
+735,2025-12-15,Italy,Organic Search,1995
+736,2025-08-19,Greece,Paid Search,1969
+737,2025-08-13,Netherlands,Organic Search,1967
+738,2025-07-13,Greece,Paid Social,
+739,2024-08-30,Greece,Email,1992
+740,2025-03-14, Netherlands ,Organic Search,1964
+741,2025-07-09,Greece,Organic Search,
+742,2024-09-01,Greece,Organic Search,1973
+743,2024-12-30,Greece,Paid Social,1988
+744,2025-10-10,Netherlands,Paid Search,1974
+745,2025-04-21,Cyprus,,1996
+746,2025-09-07,ITALY,Paid Social,1980
+747,2024-10-05,France,Paid Social,2005
+748,2025-12-02,GERMANY,Paid Search,1999
+749,2025-01-13,Spain,,1979
+750,2025-08-21,France,Paid Search,1997
+751,2025-05-31,Greece,Paid Social,1977
+752,2024-06-02,Spain,Paid Search,1955
+753,2025-02-27,Germany,Paid Social,1970
+754,2025-11-23,Greece,Organic Search,1975
+755,2025-10-22,Greece,Paid Social,2004
+756,2024-12-04,Germany,Organic Search,1997
+757,2025-07-19,Greece,Referral,
+758,2025-04-14,Germany,Email,1955
+759,2025-06-12,Greece,Email,1981
+760,2025-09-11,Germany,Organic Search,1982
+761,2024-06-30,Greece,Referral,1992
+762,2025-09-07,Netherlands,Paid Social,1968
+763,2024-04-09,Greece,Paid Search,1996
+764,2025-10-17,Greece,Referral,1976
+765,2025-07-18,Cyprus,Email,1972
+766,2025-01-27,Cyprus,Paid Search,1976
+767,2024-07-29,Germany,Email,2003
+768,2024-12-26,Germany,Email,1974
+768,2024-12-26,Germany,Email,1974
+769,2025-04-15,Greece,Organic Search,
+770,2025-04-04,Netherlands,Email,2000
+771,2025-08-27,Cyprus,Paid Social,1955
+772,2025-01-08,Greece,Organic Search,1982
+773,2025-08-05,France,Referral,1991
+774,2025-07-31,Italy,Organic Search,2001
+775,2025-07-30,Germany,Email,1958
+776,2025-10-18,Cyprus,Organic Search,1992
+777,2024-07-22,Greece,Paid Social,1995
+778,2024-05-09,Deutschland,Paid Search,1972
+779,2024-04-03,Greece,Organic Search,1993
+780,2024-02-11,Greece,Email,1980
+781,2025-10-24,Austria,Email,1988
+782,2024-01-30,Italy,Paid Search,1974
+783,2024-11-28,Greece,Organic Search,1964
+784,2024-04-03,Greece,Referral,1997
+785,2024-09-07,Italy,Paid Social,1966
+786,2025-01-16,Greece,Paid Social,1964
+787,2024-08-04,Greece,Paid Social,2000
+788,2024-12-12,Greece,Paid Social,2002
+789,2024-03-14,Italy,Paid Social,
+790,2024-06-23,Germany,Organic Search,1984
+791,2025-09-18,Greece,Paid Social,1973
+792,2025-05-23,Greece,Email,1986
+793,2024-10-11,Germany,Paid Social,1986
+794,2024-04-09,Germany,Organic Search,1981
+795,2025-03-11,Italy,Paid Social,1988
+796,2025-10-22,Greece,Paid Social,1983
+797,2024-08-14,Italy,Email,1999
+798,2024-04-26,Spain,Paid Search,1989
+799,2025-05-29,Germany,Email,1974
+800,2025-08-11,Greece,Email,1988
+801,2024-11-24,Italy,Organic Search,1966
+802,2024-08-11,Greece,Paid Search,1965
+803,2024-11-22,Greece,Paid Social,1997
+804,2024-06-27,Greece,Paid Social,1984
+805,2024-08-05,Spain,Organic Search,1957
+806,2025-03-28,Greece,Organic Search,1973
+807,2025-10-02,Netherlands,Referral,2005
+808,2024-07-14,Germany,Organic Search,1987
+809,2024-11-19,Germany,Organic Search,
+810,2024-12-22,Greece,Organic Search,1982
+811,2024-07-07,Germany,Paid Search,1957
+812,2025-07-26,Greece,Referral,1964
+813,2025-09-07,Cyprus,Paid Search,1959
+814,2025-09-02,GREECE,Paid Search,
+815,2025-09-14,Greece,Paid Search,1993
+816,2025-09-10,Germany,Paid Social,1978
+817,2025-12-06,Greece,Organic Search,1991
+818,2025-12-04,Greece,Paid Social,1983
+819,2025-07-08,AUSTRIA,Organic Search,1992
+820,2025-08-06,Greece,Referral,1989
+821,2024-06-01,Greece,Organic Search,1978
+822,2025-06-02,Greece,Organic Search,1988
+823,2024-09-23,Greece,Email,1971
+824,2024-04-14,Italy,Organic Search,1993
+825,2025-10-04,Greece,Organic Search,2001
+826,2025-04-19,Cyprus,Organic Search,1965
+827,2025-08-18,Germany,Email,1989
+828,2024-10-08,Greece,Organic Search,1960
+829,2025-06-27,Spain,Organic Search,1974
+830,2024-10-17,Austria,Organic Search,1989
+831,2025-11-01,Greece,Referral,
+832,2024-07-17,Greece,Organic Search,1967
+833,2024-06-03,Greece,Organic Search,1974
+834,2024-02-21,Greece,Paid Search,1960
+835,2024-10-21,Cyprus,Paid Search,1986
+836,2025-04-08,Germany,Organic Search,1961
+837,2025-01-31,Cyprus,Organic Search,1971
+838,2024-08-06,Greece,Organic Search,1970
+839,2025-10-08,Greece,Referral,2004
+840,2025-02-16, Austria ,Organic Search,2005
+841,2025-12-17,Spain,Paid Search,1959
+842,2025-05-07,Greece,Paid Search,1963
+843,2025-05-05,Italy,Email,1992
+844,2025-10-17,Cyprus,Organic Search,1970
+845,2025-09-14,Italy,Paid Search,1987
+846,2025-02-19,Germany,Referral,2001
+847,2024-11-29,Netherlands,Referral,1963
+848,2025-04-08,Greece,Organic Search,2004
+849,2025-06-25,Greece,Referral,1957
+850,2025-09-14,Austria,Referral,1966
+851,2025-02-03,GREECE,Paid Search,1980
+852,2024-05-28,Greece,Email,1999
+853,2025-06-14,Italy,Paid Social,1983
+854,2025-07-07,France,Paid Social,1962
+855,2024-02-01, Italy ,Referral,1967
+856,2025-09-24,France,Paid Search,1993
+857,2025-01-18,Italy,Email,1983
+858,2025-09-24,Greece,Organic Search,1955
+859,2025-08-28,Germany,,1980
+860,2024-07-27,France,Email,1975
+861,2024-09-02,Netherlands,Paid Search,1955
+862,2025-03-20,Greece,Organic Search,1967
+863,2025-09-18,Greece,Paid Social,2002
+864,2024-12-01,France,Paid Search,1990
+865,2025-08-09,Greece,Paid Social,1958
+866,2024-12-21,Greece,Organic Search,1955
+867,2025-03-30,France,Paid Social,1972
+868,2025-08-10,Germany,Paid Social,1978
+869,2024-09-18,Greece,Organic Search,1978
+870,2025-07-07,Greece,Email,1990
+871,2024-07-23,Greece,Email,1963
+872,2024-05-11,France,Email,1957
+873,2025-03-23,Cyprus,Email,1989
+874,2025-01-03,Greece,Organic Search,2000
+875,2024-12-16,Greece,Organic Search,1963
+876,2025-12-08,Greece,Organic Search,1973
+877,2024-11-15,Greece,Organic Search,1986
+878,2025-08-12,Greece,Referral,1963
+879,2025-10-13,Germany,Organic Search,1998
+880,2025-02-25,Greece,Email,1966
+881,2024-02-28,Greece,Organic Search,1982
+882,2025-03-19,Cyprus,Organic Search,1972
+883,2025-02-19,Cyprus,Organic Search,1989
+884,2025-11-29,Greece,Paid Social,1965
+885,2025-04-17,Greece,Email,1960
+886,2025-12-08,Greece,Referral,1981
+887,2025-10-15,Greece,Organic Search,1999
+888,2025-05-12,Italy,Email,1987
+889,2025-09-18,Greece,Referral,1993
+890,2025-07-08,France,Paid Social,1977
+891,2025-05-31,Italy,Organic Search,1962
+892,2024-10-07, Greece ,Organic Search,
+893,2025-04-25,Greece,Organic Search,2005
+894,2025-06-02,Greece,Paid Search,1994
+895,2025-01-09,Greece,Paid Social,1990
+896,2025-12-08,Germany,Paid Social,
+897,2025-06-23, Greece ,Referral,1985
+898,2025-10-23,France,Paid Social,1986
+899,2025-11-06,Cyprus,Email,1988
+899,2025-11-06,Cyprus,Email,1988
+900,2025-02-18,Italy,Organic Search,2000
+901,2024-11-29,France,Paid Social,1989
+902,2025-11-02,Germany,Organic Search,1966
+903,2024-12-21,Spain,Organic Search,1966
+904,2025-04-12,Austria,Organic Search,1986
+905,2024-02-14,Greece,Referral,1999
+906,2025-03-19,Greece,Email,2003
+907,2024-08-04,Greece,Referral,1986
+908,2025-04-16,Greece,Organic Search,1982
+909,2025-11-12,Germany,Paid Search,1996
+910,2025-04-14,Greece,,2004
+911,2025-07-24,Cyprus,Paid Search,1956
+912,2024-09-03,France,Referral,1970
+913,2025-03-08,Greece,Email,1972
+914,2024-06-01,Germany,Paid Social,1983
+915,2024-08-02,Greece,,1970
+916,2025-01-08,France,Referral,1970
+917,2025-06-05,Germany,Organic Search,1956
+918,2024-08-22,Greece,Referral,1955
+919,2024-01-28,Italy,Organic Search,1977
+920,2024-07-16,Greece,Paid Social,
+921,2025-12-25,Italy,Email,1970
+922,2024-11-19,Germany,Paid Search,1967
+923,2025-10-21,Greece,Paid Social,1968
+924,2025-09-01,Italy,Organic Search,2004
+925,2024-11-21,Netherlands,Paid Social,1988
+926,2025-05-07,France,Organic Search,1988
+927,2025-08-03,Germany,Paid Social,
+928,2024-12-20,Italy,Paid Social,2001
+929,2025-07-30,Greece,Referral,1965
+930,2024-11-24,France,Organic Search,2004
+931,2025-07-08,France,Organic Search,2003
+932,2024-07-03,Greece,Paid Social,1983
+933,2024-11-29,Greece,Organic Search,1999
+934,2024-10-13,Greece,Organic Search,2005
+935,2025-11-24,Greece,Paid Social,
+936,2024-03-02,Greece,Paid Social,1994
+937,2024-03-01,Greece,Organic Search,1985
+938,2025-05-29,Germany,Email,1981
+939,2025-05-07,Greece,Paid Search,1972
+940,2025-04-30,Greece,Paid Social,
+941,2024-10-03,Italy,Organic Search,1968
+942,2025-02-23,Greece,Organic Search,1964
+943,2025-12-12,Cyprus,Organic Search,1969
+944,2024-11-05,France,,1955
+945,2025-02-23,Austria,Email,2002
+946,2025-01-16,Germany,Organic Search,1968
+947,2025-06-29,Greece,Organic Search,1995
+948,2025-08-19,Greece,Paid Social,1977
+949,2025-07-30,Austria,Paid Social,1972
+950,2025-05-21,Italy,Paid Search,1966
+951,2025-05-05,France,Organic Search,1996
+952,2024-03-25,Italy,Organic Search,1981
+953,2025-06-11,Greece,Paid Social,1977
+954,2025-04-21,Cyprus,Organic Search,
+955,2025-12-05,France,Organic Search,1995
+956,2024-08-19,Netherlands,Paid Social,1988
+957,2025-02-07,Greece,Paid Social,1978
+958,2025-06-17,Germany,Organic Search,2000
+959,2024-10-22,Greece,Email,2000
+960,2025-04-30,Spain,Paid Social,2004
+961,2025-02-21,Greece,Organic Search,1959
+962,2025-10-09,Italy,Paid Search,2000
+963,2025-04-04,Greece,Organic Search,1964
+964,2025-04-07,Germany,Paid Search,1986
+965,2025-11-30,Italy,Paid Search,1988
+966,2025-03-24,Greece,Paid Social,1965
+967,2025-01-17,France,Organic Search,1955
+968,2024-11-20,Netherlands,Paid Search,2003
+969,2025-09-16,Netherlands,Paid Social,
+970,2025-02-16,Greece,Organic Search,
+971,2024-07-25,Italy,Email,1985
+972,2024-08-07,Germany,Paid Social,1962
+973,2024-09-16,Germany,Paid Search,1983
+974,2024-09-03,Cyprus,Referral,
+975,2025-06-01,Germany,Paid Search,1993
+976,2024-05-19,Greece,Referral,1984
+977,2025-03-07,Greece,Email,1980
+978,2025-10-25, Greece ,Paid Social,1989
+979,2024-12-16,Greece,Paid Search,1979
+980,2024-04-05,Greece,Paid Search,1955
+981,2025-04-12,Greece,Paid Search,1985
+982,2024-08-15,France,Referral,1994
+983,2024-08-18,Germany,Email,1980
+984,2025-10-26,Greece,Organic Search,1963
+985,2025-10-13,France,Paid Search,1955
+986,2025-10-08,Spain,Organic Search,1970
+987,2024-08-29,Netherlands,Organic Search,1994
+988,2025-12-01,France,Paid Social,1971
+989,2025-07-08,AUSTRIA,Email,2003
+990,2025-02-26,Germany,Email,1971
+991,2024-12-31,Austria,Organic Search,1976
+992,2024-09-01,Spain,Organic Search,1993
+993,2024-12-31,Greece,Organic Search,1986
+994,2024-10-13,Netherlands,Paid Social,1957
+995,2025-04-07,France,Organic Search,1958
+996,2025-11-18,France,Email,1965
+997,2025-09-22,Netherlands,Organic Search,1999
+998,2025-06-07, Greece ,Paid Social,1956
+999,2024-07-16,Greece,Paid Social,1958
+1000,2025-06-17,Germany,Paid Social,1994
+1001,2024-06-01,Italy,Paid Search,1986
+1002,2025-09-03,Netherlands,Organic Search,
+1003,2025-04-24,Netherlands,Paid Social,1966
+1004,2025-11-15,Italy,Email,1988
+1005,2025-03-23,Spain,Organic Search,1961
+1006,2025-12-25,Greece,Paid Search,1985
+1007,2025-05-26,Spain,Paid Search,1960
+1008,2025-08-25,Greece,Email,2001
+1009,2025-08-19,Germany,Paid Search,1976
+1010,2024-11-29,Greece,Paid Social,1968
+1011,2024-11-16,Germany,Paid Social,2005
+1012,2025-11-06,Greece,Organic Search,1958
+1013,2024-06-04,Greece,Organic Search,
+1014,2024-03-14,Germany,,1981
+1015,2025-08-24,Italy,Paid Social,
+1016,2025-06-13,Greece,Paid Social,1968
+1017,2025-10-19,Italy,Organic Search,1999
+1018,2025-12-12,Greece,Email,1978
+1019,2025-12-04,Greece,Organic Search,1976
+1020,2024-04-17,Greece,Paid Social,1978
+1021,2025-08-16,Germany,Organic Search,1970
+1022,2025-06-13,France,Email,1971
+1023,2025-01-18,Germany,Paid Social,1962
+1024,2025-12-21,France,Referral,1979
+1025,2025-09-21,Germany,Organic Search,1979
+1026,2025-07-03,France,Paid Social,1974
+1027,2025-06-21,Austria,Paid Search,2005
+1028,2024-11-10,Greece,Organic Search,1960
+1029,2024-05-23,Greece,Paid Social,2001
+1030,2025-04-15,Greece,Organic Search,1999
+1031,2025-12-10,Germany,Organic Search,1956
+1032,2024-08-07,Germany,Paid Social,1990
+1033,2025-12-17,Greece,Organic Search,1965
+1034,2024-05-30,Netherlands,Paid Social,1957
+1035,2025-07-22,Spain,Paid Search,1998
+1036,2025-04-11,Greece,Organic Search,1960
+1037,2024-08-15,Greece,Organic Search,1970
+1038,2025-10-07,Greece,Paid Search,1959
+1039,2025-09-27,Greece,Paid Social,1962
+1040,2025-10-23,Netherlands,Paid Search,1958
+1041,2024-05-05,Germany,Paid Social,1997
+1042,2025-07-26,Greece,Email,1958
+1043,2024-08-18,Cyprus,Paid Search,1993
+1044,2024-09-10,Greece,Organic Search,1963
+1045,2025-10-28,Greece,Referral,2001
+1046,2025-03-21,Greece,Email,1998
+1047,2025-08-12,Germany,Referral,1987
+1048,2025-06-02,Germany,Organic Search,1997
+1049,2025-11-24,Netherlands,Paid Social,1970
+1050,2025-08-27,Greece,Organic Search,1994
+1051,2025-08-28,France,Paid Search,1966
+1052,2024-05-18,Greece,Organic Search,1986
+1053,2025-10-27,Greece,Organic Search,2001
+1054,2025-02-23,Netherlands,Paid Search,1991
+1055,2025-06-06,Italy,Paid Social,1968
+1056,2024-06-01,Greece,Email,1992
+1057,2025-11-29,Cyprus,Organic Search,2000
+1058,2025-01-16,Italy,Email,2000
+1059,2024-06-23,Spain,Organic Search,1992
+1060,2025-04-11,Germany,Paid Social,1992
+1061,2025-06-27, Greece ,Paid Social,1995
+1062,2024-10-12,Cyprus,Paid Social,1992
+1063,2025-03-26,Greece,Organic Search,1961
+1064,2025-07-20,Greece,Organic Search,1996
+1065,2025-04-30,Germany,Referral,1964
+1066,2025-10-11,France,Organic Search,1983
+1067,2025-04-04,Greece,Organic Search,1972
+1068,2025-10-01,France,Paid Social,1965
+1069,2025-01-07,Italy,Paid Social,1969
+1070,2025-11-08,France,Referral,1959
+1071,2024-01-29,Greece,Paid Social,1977
+1072,2024-01-14,Greece,Paid Search,1976
+1073,2025-09-29,Greece,Email,1975
+1074,2025-08-15,Greece,Paid Search,1959
+1075,2024-05-07,Greece,Referral,1985
+1076,2024-09-15,Greece,Organic Search,1963
+1077,2025-10-20,Greece,Paid Search,1998
+1078,2025-03-13,Greece,Referral,1956
+1079,2024-05-03,Spain,Email,1957
+1080,2025-02-20,France,Organic Search,1970
+1081,2025-02-28,Greece,Organic Search,1975
+1082,2025-08-19,Spain,Email,2004
+1083,2025-06-03,Greece,Paid Social,1981
+1084,2025-02-15,Greece,Email,1974
+1085,2025-10-17,FRANCE,Paid Social,1997
+1086,2025-10-15,Cyprus,Paid Social,1967
+1087,2025-04-23,Greece,Organic Search,2000
+1088,2024-07-16,Greece,Organic Search,1975
+1089,2025-03-28,Germany,Organic Search,1970
+1090,2024-08-16,Germany,Referral,1970
+1091,2024-11-14,Greece,Email,1955
+1092,2024-11-17,Cyprus,Paid Search,1989
+1093,2025-08-13,Greece,Referral,1984
+1094,2025-12-06,Germany,Referral,1987
+1095,2025-03-07,Greece,Paid Social,1988
+1096,2024-09-17,Netherlands,Referral,
+1097,2024-11-01,Italy,,1999
+1098,2025-07-20,Greece,Referral,1981
+1099,2024-10-30,Italy,Organic Search,1990
+1100,2025-10-19,Greece,Email,1956
+1101,2024-04-01,Greece,Organic Search,1993
+1102,2025-04-17,Cyprus,Organic Search,1989
+1103,2024-02-02,Cyprus,Email,
+1104,2024-12-27,Italy,Paid Search,2002
+1105,2025-12-09,Austria,Organic Search,1988
+1106,2024-06-18,Greece,,2001
+1107,2024-08-18,Greece,,1996
+1108,2024-11-20,Germany,Organic Search,1965
+1109,2024-03-22,GREECE,Organic Search,2005
+1110,2024-09-04,Greece,Referral,1992
+1111,2024-05-18,Austria,Paid Search,1964
+1112,2024-09-05,France,Paid Social,1995
+1113,2024-03-01,Spain,Paid Social,1976
+1114,2024-11-19,Greece,Paid Social,1999
+1115,2025-04-13,Greece,Organic Search,1963
+1116,2024-05-28,Cyprus,Referral,1968
+1117,2025-04-28,Spain,Paid Search,1972
+1118,2025-01-25,Greece,Paid Social,1977
+1119,2025-12-24,Greece,Organic Search,1987
+1120,2024-12-25,Greece,Organic Search,1966
+1121,2024-07-30, France ,Organic Search,1990
+1122,2025-01-05,France,Organic Search,
+1123,2025-03-05,Italy,Organic Search,1971
+1124,2025-11-10,Greece,Referral,1988
+1125,2025-08-04,Italy,Organic Search,1968
+1126,2025-07-07,Cyprus,Email,1977
+1127,2025-09-05,Greece,Paid Social,1985
+1128,2024-10-29,Greece,Paid Search,1967
+1129,2025-08-22,Germany,Paid Search,2004
+1130,2025-10-31,Greece,Paid Social,1998
+1131,2024-04-12,Austria,Organic Search,2004
+1132,2025-07-26,Cyprus,Referral,1980
+1133,2024-02-19,Greece,,1972
+1134,2025-06-14,Italy,Organic Search,2005
+1135,2025-09-24,Italy,Organic Search,1992
+1136,2024-10-13,Greece,Paid Search,1995
+1137,2025-04-10,Germany,Organic Search,1964
+1138,2025-05-04,Greece,Paid Social,1999
+1139,2025-10-25,Greece,Paid Social,
+1140,2025-09-09,Italy,Email,
+1141,2024-04-14,Germany,Organic Search,1997
+1142,2025-07-20,Greece,Paid Search,1960
+1143,2025-07-23,Greece,Referral,1960
+1144,2024-11-04,Germany,Paid Social,1958
+1145,2025-11-09,Greece,Paid Social,1987
+1146,2025-08-09,Spain,Referral,2001
+1147,2025-01-18,Germany,Referral,1956
+1148,2024-04-23,Netherlands,Paid Social,1962
+1149,2025-03-17,Greece,Paid Social,1979
+1150,2025-03-09,France,Organic Search,1974
+1151,2025-07-10,Greece,Organic Search,1960
+1152,2024-03-24,Greece,Organic Search,1986
+1153,2025-06-20,Greece,Organic Search,
+1154,2024-07-04,Greece,Organic Search,1965
+1155,2025-09-01,Spain,Paid Search,1955
+1156,2024-11-05,Italy,Referral,1966
+1157,2025-01-23,Germany,Paid Search,1964
+1158,2025-10-11,Germany,Email,1978
+1159,2025-09-09,Germany,Email,
+1160,2025-11-05,Germany,Organic Search,1973
+1161,2024-05-27,France,Email,1961
+1162,2024-03-07,Germany,Organic Search,1989
+1163,2024-09-09,Italy,Paid Social,1978
+1164,2024-12-03,Greece,Paid Search,1958
+1165,2024-05-23,Austria,Paid Search,1957
+1166,2025-11-24,Greece,Organic Search,1979
+1167,2025-11-10,Greece,Referral,1985
+1168,2025-05-15,Netherlands,Organic Search,1963
+1169,2025-08-20,Greece,Organic Search,1971
+1170,2025-04-15,Greece,Organic Search,1985
+1171,2024-05-05,Greece,Organic Search,1979
+1172,2024-10-17,Cyprus,Email,1960
+1173,2025-12-23,Spain,,1974
+1174,2025-06-29,France,Organic Search,1965
+1175,2025-12-05,Cyprus,Paid Search,2002
+1176,2025-09-15,Austria,Paid Social,1995
+1177,2024-07-09,Germany,Paid Social,1970
+1178,2025-12-08,Netherlands,Paid Social,1966
+1179,2024-02-01,Greece,Paid Social,1961
+1180,2025-04-28,Cyprus,Paid Social,1992
+1181,2024-08-07,Greece,Email,2001
+1182,2025-01-04,Greece,Paid Search,1968
+1183,2025-10-16,Italy,Paid Social,1987
+1184,2024-07-28, Greece ,Paid Social,1966
+1185,2024-04-30,Germany,Organic Search,2001
+1186,2025-05-28,Italy,Paid Search,1970
+1187,2025-10-06,Greece,Paid Social,1959
+1188,2025-06-27,Cyprus,Organic Search,1999
+1189,2024-09-02,Italy,Paid Search,2003
+1190,2025-04-27,Netherlands,Email,1975
+1191,2024-04-15,Greece,Organic Search,2001
+1192,2024-06-19,Austria,Organic Search,
+1193,2025-01-01,Netherlands,Paid Social,1968
+1194,2025-11-01,Italy,Paid Search,1982
+1194,2025-11-01,Italy,Paid Search,1982
+1195,2024-11-19,Greece,Paid Social,1985
+1196,2025-03-08,Italy,Organic Search,1974
+1197,2025-11-19,France,Email,
+1198,2024-11-10,Greece,Paid Social,1995
+1199,2024-03-30,Austria,Organic Search,1961
+1200,2024-08-22,Spain,Paid Search,
+1201,2024-06-12,Cyprus,Organic Search,1963
+1202,2025-12-23,Italy,Paid Search,1981
+1203,2024-07-02,Germany,Referral,
+1204,2025-06-13,France,Organic Search,1978
+1205,2024-02-08,France,Referral,1961
+1206,2024-10-02,Greece,Referral,1972
+1207,2024-11-01,Greece,Email,1956
+1208,2024-03-15,Greece,Email,2004
+1209,2024-06-09,Spain,Organic Search,1962
+1210,2024-07-25,Greece,Organic Search,1979
+1211,2025-02-08,Netherlands,Referral,1966
+1212,2025-02-11,Cyprus,Organic Search,
+1213,2024-09-10,Greece,Organic Search,1974
+1214,2025-12-09,Spain,Paid Social,
+1215,2025-08-24,Germany,Organic Search,1979
+1216,2024-11-17,Greece,Referral,2004
+1217,2025-05-21,Greece,Referral,1997
+1218,2025-04-15,Greece,,
+1219,2025-06-01,Greece,Organic Search,2000
+1220,2025-08-27,Greece,,1972
+1221,2025-12-07,Germany,Paid Search,1980
+1222,2025-08-22,Greece,Paid Social,1989
+1223,2024-05-02,Greece,Email,1985
+1224,2025-01-10,Greece,Email,1997
+1225,2025-11-13,Greece,Paid Social,1963
+1226,2024-09-29,Austria,Organic Search,1980
+1227,2024-11-06,Greece,Email,1988
+1228,2024-10-25,Greece,Organic Search,
+1229,2024-06-15,Germany,Paid Search,1999
+1230,2025-06-04,Spain,Email,1970
+1231,2025-01-24,France,Organic Search,1970
+1232,2025-09-29,France,Referral,1971
+1233,2024-02-22,Spain,Paid Social,1989
+1234,2025-07-08,Germany,Organic Search,
+1235,2024-12-21,Austria,Paid Search,1962
+1236,2025-10-13,Greece,Referral,1994
+1237,2025-12-25,France,Email,1965
+1238,2025-09-22,Netherlands,Paid Search,1960
+1239,2025-11-25,Spain,Paid Social,1968
+1240,2025-02-28,Cyprus,Paid Social,
+1241,2025-10-14,France,Organic Search,1956
+1242,2024-05-23,Greece,Organic Search,1997
+1243,2025-06-29,Germany,Paid Social,1960
+1244,2025-07-15,Greece,Paid Social,1975
+1245,2024-11-22,Germany,Referral,1965
+1246,2024-06-04,Italy,Paid Social,1970
+1247,2024-11-14,Greece,,1957
+1248,2025-08-05,GREECE,Paid Search,2003
+1249,2025-04-01,GREECE,Paid Search,2002
+1250,2025-05-22,Italy,Paid Social,1961
+1251,2025-09-29,Italy,Paid Search,
+1252,2024-05-22, Italy ,Referral,2000
+1253,2024-08-01,Greece,Organic Search,1976
+1254,2025-02-15,France,Paid Social,1958
+1255,2024-10-28,Italy,Organic Search,1961
+1256,2025-06-21,Greece,Email,1976
+1257,2025-12-08,Greece,Email,1983
+1258,2024-10-02,Cyprus,Paid Social,1987
+1259,2025-07-14,Greece,Referral,1962
+1260,2024-04-24,Greece,Paid Social,1973
+1261,2024-08-31,Greece,Paid Social,1968
+1262,2024-03-27,Greece,Paid Search,1982
+1263,2024-10-23,Greece,Paid Search,1971
+1264,2025-07-26,Greece,Referral,1965
+1265,2024-04-15,France,Organic Search,1996
+1266,2024-08-20,Deutschland,Organic Search,1984
+1266,2024-08-20,Deutschland,Organic Search,1984
+1267,2024-06-06,Cyprus,Organic Search,1979
+1268,2025-04-19,Italy,Paid Social,1961
+1269,2025-11-13,Germany,Organic Search,1958
+1270,2024-06-20,Greece,Paid Search,1995
+1271,2025-03-12,Greece,Email,2004
+1272,2025-05-19,Greece,Paid Social,1984
+1273,2024-11-21,Germany,Organic Search,1956
+1274,2025-05-20,Cyprus,Paid Social,1979
+1275,2024-10-31,Greece,Paid Social,1969
+1276,2025-11-03,Germany,Referral,1957
+1277,2024-04-10,Austria,Organic Search,1962
+1277,2024-04-10,Austria,Organic Search,1962
+1278,2025-12-05,Greece,Paid Search,1980
+1279,2024-02-11,Germany,Organic Search,1976
+1280,2025-03-11,Cyprus,Organic Search,1983
+1281,2025-03-08,Italy,Paid Search,1990
+1282,2025-07-20,Italy,Organic Search,1968
+1283,2025-04-11,Italy,Organic Search,
+1284,2024-07-04,Greece,Email,1989
+1285,2024-10-11,Cyprus,Paid Social,1965
+1286,2024-07-27,France,Organic Search,1958
+1287,2025-03-23, Greece ,Organic Search,1998
+1288,2024-12-22,Austria,Organic Search,1965
+1289,2025-01-05,Greece,Paid Social,1961
+1290,2025-03-15,Cyprus,Organic Search,1992
+1291,2024-12-14,Cyprus,Referral,1982
+1292,2024-07-23,Cyprus,Paid Search,1962
+1293,2025-01-07,Netherlands,Organic Search,1998
+1294,2025-07-19,Greece,Paid Social,1967
+1295,2025-09-02,Germany,Organic Search,1989
+1296,2024-11-30,Germany,Organic Search,1988
+1297,2025-04-27,Netherlands,Organic Search,1997
+1298,2025-07-06,Germany,Referral,1992
+1299,2025-12-22,AUSTRIA,Paid Social,1990
+1300,2025-09-17,Netherlands,Paid Social,1957
+1301,2025-07-18,Greece,Email,2002
+1302,2025-06-03,Netherlands,Paid Search,1961
+1303,2024-09-02,Spain,Paid Social,1967
+1304,2025-12-02,Greece,Organic Search,1977
+1305,2024-03-15,Germany,Paid Search,1969
+1306,2025-10-16,Greece,Paid Social,1985
+1307,2025-05-29,Germany,Email,1957
+1308,2025-05-13,Greece,Email,1978
+1309,2025-06-04,Italy,Paid Social,1972
+1310,2024-05-29,Greece,Organic Search,1988
+1311,2025-11-14, Germany ,Organic Search,1981
+1312,2024-11-01,Greece,Paid Social,1993
+1313,2024-07-01,Italy,,1963
+1314,2024-11-24, Cyprus ,Referral,2003
+1315,2025-04-26,Germany,Referral,1974
+1316,2024-09-02,Greece,Paid Search,1972
+1317,2025-02-14,Greece,Paid Search,1982
+1318,2024-01-30,Cyprus,Referral,1963
+1319,2025-01-14,Spain,Organic Search,
+1320,2025-10-06,Greece,Paid Social,1968
+1321,2025-10-23,Italy,Email,2002
+1322,2025-04-06,Greece,Email,1962
+1323,2024-12-22,Italy,Organic Search,1999
+1324,2025-09-22,Greece,Email,1975
+1325,2024-09-19,Cyprus,Paid Social,1985
+1326,2025-03-13,Greece,Paid Social,1999
+1327,2025-02-18,GR,Paid Search,
+1328,2025-10-19,Greece,Paid Social,1972
+1329,2024-12-03,Greece,Paid Social,2003
+1330,2025-04-02,Germany,Email,1962
+1331,2025-11-20,Austria,Email,1960
+1332,2024-12-08,Cyprus,Organic Search,1981
+1333,2024-03-18,Spain,Email,1956
+1334,2024-12-23,Cyprus,Paid Social,2005
+1335,2025-03-10,Greece,Email,2001
+1336,2025-08-17,Greece,Organic Search,1964
+1337,2025-08-30,Greece,Paid Search,1963
+1338,2025-12-02,Greece,Referral,1994
+1339,2024-02-18,Netherlands,Paid Social,1981
+1340,2025-09-30,Italy,Paid Social,1996
+1341,2025-11-23,Germany,Paid Social,2004
+1342,2025-09-23,Cyprus,,1975
+1343,2025-01-08,Greece,Email,
+1344,2025-09-02,Germany,Referral,1986
+1345,2025-02-02,GREECE,Paid Search,1987
+1346,2025-07-05,Greece,Paid Social,1977
+1347,2025-04-24,Greece,Email,1970
+1348,2024-08-26,Greece,Paid Social,1968
+1349,2025-10-05,Italy,Email,1981
+1350,2024-10-28,Greece,Paid Social,1976
+1351,2024-07-03,Greece,Referral,
+1352,2024-06-20,Spain,Organic Search,1959
+1353,2025-08-03,Austria,Organic Search,1999
+1354,2025-01-26,Cyprus,Organic Search,1991
+1355,2025-06-25,Cyprus,Paid Search,2001
+1356,2024-02-08,France,Paid Social,
+1357,2025-11-28,Greece,Paid Social,1986
+1358,2025-09-23,Cyprus,Paid Social,1970
+1359,2024-11-06,Greece,Paid Social,1988
+1360,2025-12-11,Greece,Paid Search,1983
+1361,2025-04-30,Austria,,2002
+1362,2024-07-04,France,Paid Search,1966
+1363,2024-06-26,Austria,Paid Search,1956
+1364,2025-02-28,Italy,Organic Search,1961
+1365,2025-07-10,Germany,Organic Search,1963
+1366,2025-06-20,France,Email,1988
+1367,2025-03-25,Italy,Email,1962
+1368,2025-08-29,Cyprus,Organic Search,1961
+1369,2025-03-31,Greece,Referral,
+1370,2025-12-22,Germany,Organic Search,1994
+1371,2025-09-17,Greece,Organic Search,1976
+1372,2024-03-15,Cyprus,Paid Social,1968
+1373,2024-01-07,Greece,Paid Search,1969
+1374,2025-12-14,Germany,Referral,1996
+1375,2024-12-15,Greece,Paid Social,1977
+1376,2024-07-25,Greece,Referral,1973
+1377,2025-07-11,Cyprus,Referral,1994
+1378,2024-09-07,Greece,Paid Social,1973
+1379,2025-05-26,Austria,Referral,1973
+1380,2025-08-16,Cyprus,Organic Search,1993
+1381,2025-04-05,Greece,Paid Social,1971
+1382,2025-06-05,Greece,Organic Search,1981
+1383,2025-02-07,Netherlands,,1988
+1384,2024-06-18,Germany,Paid Social,1965
+1385,2025-12-15,Greece,Organic Search,1961
+1386,2025-09-16,Greece,Paid Social,1998
+1387,2024-09-04,Italy,Email,
+1388,2025-09-23,Spain,Email,1972
+1389,2025-10-26,Greece,Organic Search,1985
+1390,2024-07-21,Greece,Organic Search,1960
+1391,2025-10-28,Greece,Paid Social,1957
+1392,2025-06-22,Greece,Paid Search,1976
+1393,2025-12-04,Italy,Paid Search,2004
+1394,2025-11-11,Austria,Paid Social,1984
+1395,2025-10-25,Austria,Referral,1984
+1396,2024-09-20,France,Email,1986
+1397,2025-09-30,Greece,Paid Search,1998
+1398,2024-06-11,Austria,Organic Search,1997
+1399,2024-10-24,Greece,Paid Social,1956
+1400,2024-10-13,Greece,Email,1982
+1401,2024-03-20,Italy,Paid Social,1982
+1402,2024-11-23,Greece,Organic Search,
+1403,2024-05-21,France,Organic Search,2004
+1404,2024-11-09,Austria,Paid Social,1968
+1405,2025-08-31,France,Email,1997
+1406,2025-04-11,France,Referral,1960
+1407,2025-12-06,Greece,Organic Search,1985
+1407,2025-12-06,Greece,Organic Search,1985
+1408,2025-09-27,Greece,Paid Search,1992
+1409,2024-10-08,France,Paid Social,1980
+1410,2025-12-23,Germany,Paid Search,1960
+1411,2025-02-05,Spain,Organic Search,1961
+1412,2024-05-16,Greece,Paid Search,1985
+1413,2025-12-02,Greece,Paid Search,1998
+1414,2024-11-21,Greece,Paid Search,1985
+1415,2024-11-26,Italy,Referral,
+1416,2025-05-28,France,Paid Social,1995
+1417,2025-07-01,Austria,Referral,1978
+1418,2024-10-28,Greece,Email,1958
+1419,2025-02-28,Cyprus,Paid Social,1973
+1420,2025-01-19,Greece,Paid Search,1965
+1421,2024-09-07,Greece,Organic Search,2005
+1422,2025-08-08,Greece,Paid Social,2001
+1423,2024-08-06,Germany,Paid Search,1960
+1424,2024-06-21,Cyprus,Organic Search,1984
+1425,2024-09-09,Greece,Organic Search,1955
+1426,2025-05-03,Germany,Paid Social,1978
+1427,2025-01-26,France,Referral,1962
+1428,2025-01-07,Greece,Paid Search,1993
+1429,2025-07-05, Greece ,Organic Search,1958
+1430,2024-05-24,Italy,Email,2001
+1431,2024-01-05,France,Email,1966
+1432,2024-06-28,France,Email,1968
+1433,2025-09-03,Greece,Email,2000
+1434,2025-08-22,Germany,Paid Search,2000
+1435,2025-08-25,Spain,Paid Social,1959
+1436,2025-01-07,Greece,Organic Search,1960
+1437,2024-07-13,Cyprus,Email,1998
+1438,2025-02-01,Austria,Paid Social,2004
+1439,2024-04-16,Greece,Paid Social,1979
+1440,2024-03-22,Italy,Organic Search,1963
+1441,2025-03-31,Netherlands,Organic Search,1962
+1442,2025-08-09,Greece,Paid Search,1968
+1443,2025-01-19,Italy,Organic Search,1989
+1444,2025-11-23,Cyprus,Email,1959
+1445,2025-02-19,Netherlands,Referral,1987
+1446,2025-05-24,Spain,Organic Search,1995
+1447,2025-04-07,Netherlands,Organic Search,1962
+1448,2025-06-16,Greece,Paid Social,2005
+1449,2024-08-29,France,Paid Social,2005
+1450,2025-10-22,Spain,Paid Social,1970
+1451,2025-12-18,Germany,Email,1960
+1452,2025-10-08,Germany,Organic Search,1971
+1453,2025-05-05,Greece,Organic Search,1968
+1454,2024-11-08,Netherlands,Organic Search,1969
+1455,2025-03-29,Greece,Paid Social,2002
+1456,2024-11-30,Greece,Paid Social,1962
+1457,2025-01-25,Spain,Paid Search,1971
+1458,2025-10-17,Spain,Organic Search,1995
+1459,2025-05-23,Austria,Paid Social,1957
+1460,2025-01-20,Cyprus,Email,1958
+1461,2025-01-25,Greece,Email,1970
+1462,2024-07-12,Cyprus,Email,2004
+1463,2025-11-03,Greece,Organic Search,1997
+1464,2025-04-05,Netherlands,Email,2002
+1465,2024-11-03,Germany,Paid Social,1999
+1466,2024-10-31,Greece,Referral,1961
+1467,2025-10-20,Greece,Organic Search,1975
+1468,2025-09-24,Greece,Referral,1982
+1469,2024-10-08,Netherlands,Email,1963
+1470,2025-05-21,Italy,Email,2005
+1471,2024-04-08,Greece,Organic Search,1985
+1472,2024-03-13,Greece,Email,1998
+1473,2025-09-02,GREECE,Referral,1968
+1474,2025-06-23,Greece,Paid Social,1991
+1475,2025-05-30,Spain,Paid Social,1960
+1476,2025-09-05,Italy,Organic Search,
+1477,2025-05-27,Greece,Organic Search,1987
+1478,2024-09-09,France,Referral,1958
+1479,2025-12-21,Greece,Paid Social,1969
+1480,2025-05-02,Greece,Referral,1995
+1481,2025-10-17,Germany,Referral,1980
+1482,2025-10-24,Greece,Email,1974
+1483,2025-12-25,Cyprus,Email,1969
+1484,2025-08-14,Netherlands,Email,1989
+1485,2024-12-27,Spain,Paid Social,2003
+1486,2025-01-06,Greece,Organic Search,1992
+1487,2025-10-06,Germany,Paid Search,1973
+1488,2024-05-15,Greece,Paid Search,1976
+1489,2025-06-03,Germany,Paid Social,1960
+1490,2025-03-30,Greece,Paid Search,
+1491,2025-06-17,Germany,Paid Search,1968
+1492,2024-09-10, Greece ,Paid Social,1974
+1493,2025-03-13,Spain,Referral,2005
+1494,2025-01-02,Netherlands,Email,1999
+1495,2025-11-07,Greece,Organic Search,1960
+1496,2025-05-23,France,Organic Search,1971
+1497,2025-08-13,Greece,Paid Social,1957
+1498,2024-11-28,Italy,Referral,1958
+1499,2025-07-15,Greece,Paid Social,1974
+1500,2024-12-16,Greece,Referral,2003
+1501,2025-02-20,Italy,Email,
+1502,2024-08-05,Cyprus,Email,1989
+1503,2025-09-24,Germany,Organic Search,1975
+1504,2025-11-17,Deutschland,Paid Social,1982
+1505,2024-12-24,Greece,Organic Search,1999
+1506,2025-05-14,Greece,Organic Search,1997
+1507,2025-06-16,Germany,Organic Search,1997
+1508,2025-08-25,Germany,Organic Search,1975
+1509,2025-06-19,GR,Organic Search,1957
+1510,2025-11-05,Greece,Email,2005
+1511,2024-08-21,Germany,Paid Social,2005
+1512,2025-09-17,Italy,Organic Search,1998
+1513,2024-06-09,France,Paid Search,
+1514,2025-02-17,Cyprus,Paid Social,1969
+1515,2025-07-18,Germany,Paid Search,1963
+1516,2025-06-24,Germany,Email,1973
+1517,2025-04-09,Greece,Organic Search,1972
+1518,2024-05-05,Greece,Paid Search,1969
+1519,2024-01-24,Greece,Paid Search,2003
+1520,2024-08-31,France,Email,1988
+1521,2024-10-14,Greece,Paid Social,1966
+1522,2025-02-19,Germany,Paid Social,1900
+1523,2024-12-14,Germany,Paid Social,1990
+1524,2024-04-08,Greece,Referral,1981
+1525,2025-12-12,France,Paid Social,2003
+1526,2025-05-01,Italy,Organic Search,2004
+1527,2024-08-13,Greece,Organic Search,1977
+1528,2024-12-01,France,Organic Search,1979
+1529,2025-06-10,Deutschland,Organic Search,1966
+1530,2025-11-16,GREECE,Paid Social,1994
+1531,2025-12-06,Italy,Paid Search,2002
+1532,2024-06-15,Italy,Organic Search,1988
+1533,2025-05-22,Greece,Paid Social,1965
+1534,2024-07-05,Austria,Organic Search,1981
+1535,2024-06-18,Germany,Paid Social,1995
+1536,2025-10-23,GERMANY,Email,1957
+1537,2025-09-24,Greece,Paid Social,
+1538,2025-05-14,Greece,Paid Search,1988
+1539,2025-01-17,Cyprus,Paid Search,1982
+1540,2025-05-30,Germany,Paid Search,1987
+1541,2025-02-23,Germany,Referral,2000
+1542,2025-09-21,France,Paid Social,1961
+1543,2024-03-30,Greece,Email,1984
+1544,2025-12-24,Italy,Paid Social,1995
+1545,2025-01-21,France,Referral,1996
+1546,2025-07-07,France,Organic Search,1978
+1547,2025-09-19,France,Organic Search,2005
+1548,2024-07-14,Netherlands,Organic Search,1971
+1549,2025-09-01,Greece,Email,
+1550,2025-03-13,Italy,Email,1997
+1550,2025-03-13,Italy,Email,1997
+1551,2024-12-06,Austria,Organic Search,1977
+1552,2024-07-23,Germany,Paid Social,1972
+1553,2024-11-28,Greece,Paid Social,1983
+1554,2024-02-03,Austria,Referral,1986
+1555,2024-10-05,Greece,Organic Search,2004
+1556,2025-04-11,Greece,Organic Search,1986
+1557,2024-07-18,Greece,Email,1964
+1558,2025-11-28,Cyprus,,1957
+1559,2025-05-18,Greece,Paid Search,2004
+1560,2025-09-15,Cyprus,Email,1976
+1561,2025-06-05,Spain,Paid Search,1965
+1562,2025-01-05,Cyprus,Paid Social,1966
+1563,2025-07-16,Germany,Paid Social,1960
+1564,2024-11-25,Netherlands,Paid Search,1965
+1565,2025-10-14,France,Organic Search,1994
+1566,2024-10-25,Greece,Referral,1988
+1567,2024-08-26,Greece,Organic Search,1985
+1568,2024-02-26,Germany,Paid Social,1955
+1569,2025-04-14,Netherlands,Organic Search,1989
+1570,2025-01-17,Germany,Email,
+1571,2024-12-10,Greece,Referral,2002
+1572,2024-11-10,Italy,Organic Search,1975
+1573,2025-08-10,Italy,Organic Search,1985
+1574,2025-10-21,Germany,Paid Social,1970
+1575,2025-03-20,Netherlands,Organic Search,2000
+1576,2025-05-16,France,Paid Social,2001
+1577,2024-07-27,Italy,Paid Search,1966
+1577,2024-07-27,Italy,Paid Search,1966
+1578,2024-04-23,Italy,Organic Search,1979
+1579,2024-07-20,Italy,Paid Social,1967
+1580,2024-10-19,Germany,Paid Social,1986
+1581,2024-02-19,Cyprus,Organic Search,1969
+1582,2024-10-18,Italy,Organic Search,1990
+1583,2025-03-27,Germany,Referral,2005
+1584,2025-10-20,Cyprus,Email,1999
+1585,2025-03-25,Greece,Referral,1964
+1586,2025-09-26,Italy,Paid Social,1961
+1587,2025-02-28,Germany,Email,1996
+1588,2024-10-12,Greece,Paid Search,1959
+1589,2024-03-17,Greece,Paid Search,1975
+1590,2024-04-14,Greece,Paid Search,2005
+1591,2024-11-27,Austria,Organic Search,1977
+1592,2025-02-12,Netherlands,Paid Search,1955
+1593,2024-11-28,Germany,Referral,2004
+1594,2025-08-04, Greece ,Referral,1991
+1595,2024-08-07,Italy,Email,1971
+1596,2024-09-06,Germany,Paid Search,1986
+1597,2025-04-06,Austria,Paid Social,1986
+1598,2024-10-05,Greece,Referral,1983
+1599,2024-10-01,Greece,Email,2004
+1600,2025-05-17,Germany,Referral,1995
+1601,2025-11-09,Greece,Referral,1968
+1602,2024-12-07,Germany,Organic Search,2005
+1603,2024-08-21,France,Paid Social,2004
+1604,2025-03-29,Greece,Paid Social,1957
+1605,2025-02-16,Cyprus,Referral,1970
+1606,2025-12-10,Italy,Referral,
+1607,2025-10-12,France,Paid Search,1999
+1608,2024-07-19,Cyprus,Referral,1991
+1609,2024-04-10,Greece,Email,1984
+1610,2025-07-18,Germany,Organic Search,1970
+1611,2025-10-27,Cyprus,Email,1959
+1612,2024-07-10,France,Paid Search,2000
+1613,2025-04-27,Germany,Email,1982
+1614,2025-10-04,Greece,Paid Search,1978
+1615,2024-10-05,France,Paid Search,2004
+1616,2025-10-30,Germany,Paid Social,1963
+1617,2024-05-21,Greece,Referral,1967
+1618,2025-04-13,Germany,Paid Social,1998
+1619,2025-12-07,Spain,Paid Social,1969
+1620,2025-09-30,Italy,Organic Search,2003
+1621,2024-02-16,Greece,Organic Search,1998
+1622,2025-11-10,Italy,Organic Search,1960
+1623,2025-08-13,Greece,Email,1978
+1624,2024-11-24,Germany,Organic Search,
+1625,2025-03-16,Germany,Paid Social,1979
+1626,2025-05-16,Greece,Paid Social,1965
+1627,2025-10-17,Greece,Paid Social,1957
+1628,2025-06-28,Spain,Paid Search,1955
+1629,2025-06-16, Greece ,Paid Social,1964
+1630,2025-05-28, France ,Organic Search,1968
+1631,2024-08-03,Italy,Paid Search,1970
+1632,2025-11-07,Germany,Paid Search,1998
+1633,2024-04-06,Greece,Email,1980
+1634,2024-10-20,Greece,Referral,1962
+1635,2025-02-13,Greece,Organic Search,1959
+1636,2024-07-08,Germany,Referral,1961
+1637,2025-07-26,Austria,Organic Search,1970
+1638,2024-06-30,Netherlands,Paid Social,1992
+1639,2024-10-10,Greece,Organic Search,1957
+1640,2024-04-19,Greece,Referral,1975
+1641,2025-09-11,Greece,Organic Search,
+1642,2024-03-19,Austria,Organic Search,1962
+1643,2024-10-15,Greece,Organic Search,1957
+1644,2024-11-08,Greece,Referral,
+1645,2025-03-01,Germany,Organic Search,1962
+1646,2025-11-22,Germany,Paid Social,1995
+1647,2024-10-03,GR,Paid Social,2001
+1648,2025-12-14,Italy,Referral,1986
+1649,2024-09-20,Greece,Organic Search,1993
+1650,2024-12-18,Greece,Paid Search,1993
+1651,2025-11-08,Greece,Paid Social,1999
+1652,2025-12-22, Greece ,Organic Search,1959
+1653,2024-10-02,Austria,Organic Search,
+1654,2025-03-30,Germany,Organic Search,1978
+1655,2025-12-14,France,Paid Social,1982
+1656,2024-08-16,GR,Organic Search,1995
+1657,2025-10-19,Italy,Paid Search,1980
+1658,2024-06-09,Austria,Paid Social,1968
+1659,2024-06-22,Greece,Organic Search,1955
+1660,2025-08-06,Austria,Paid Social,1963
+1661,2024-09-08,Germany,Organic Search,1959
+1662,2025-06-21,Italy,Organic Search,1900
+1663,2025-10-15,Greece,Paid Social,1994
+1664,2025-07-09,Germany,Organic Search,1972
+1665,2025-05-31,Germany,Organic Search,1985
+1666,2025-08-31,Spain,Paid Search,1964
+1667,2024-06-10,Spain,Email,1985
+1668,2025-12-24,Greece,Paid Search,2003
+1669,2024-07-02,Spain,Organic Search,1971
+1670,2025-06-21,Netherlands,Paid Search,1979
+1671,2025-10-20,Germany,Paid Social,2004
+1672,2025-11-15,Greece,Organic Search,1986
+1673,2025-05-22,Greece,Referral,1975
+1674,2025-01-31, Greece ,Organic Search,1961
+1675,2025-11-20,Greece,Paid Social,2002
+1676,2025-12-24,Austria,Referral,1986
+1677,2024-10-31,Greece,Email,1957
+1678,2024-09-15,Italy,Paid Social,1983
+1679,2025-07-28,Germany,Paid Social,2004
+1680,2025-03-14,Germany,Organic Search,2002
+1681,2024-08-05,Greece,Paid Search,1964
+1682,2025-03-24,Germany,Organic Search,1976
+1683,2024-12-20,Germany,Organic Search,2005
+1684,2025-02-06,Germany,Organic Search,1994
+1685,2024-10-12,Greece,Paid Search,1983
+1686,2024-09-29,Italy,Referral,1970
+1687,2025-11-18,Greece,Paid Social,1993
+1688,2024-11-29,Germany,Paid Search,1984
+1689,2024-01-23,Cyprus,Organic Search,1981
+1690,2025-04-10,Greece,Paid Search,2002
+1691,2024-11-03,France,Organic Search,1974
+1692,2025-05-30,Greece,Paid Social,1986
+1693,2024-04-02,Spain,Organic Search,1957
+1694,2025-04-17,Netherlands,Paid Search,1991
+1695,2025-05-19,Greece,Paid Search,1982
+1696,2025-02-13,GR,Email,1999
+1697,2024-08-01,Greece,Organic Search,1971
+1698,2025-09-18,Spain,Organic Search,2002
+1699,2025-12-02,Germany,,1984
+1700,2024-12-23,Greece,Paid Social,1965
+1701,2024-07-06,Germany,Organic Search,1963
+1702,2025-05-16,Greece,Email,1964
+1703,2025-04-08,Germany,Email,1970
+1704,2025-01-08,Germany,Paid Search,1983
+1705,2025-12-09,Greece,Paid Social,1999
+1706,2025-06-24,France,Paid Social,2005
+1707,2025-06-13,Greece,Paid Social,1989
+1708,2025-03-04,Germany,Organic Search,1979
+1709,2025-02-19,Germany,Email,1986
+1710,2024-11-03,Austria,Referral,1971
+1711,2024-12-15,Cyprus,Organic Search,1967
+1712,2025-08-09,Spain,,1982
+1713,2024-03-31,Greece,Paid Search,1997
+1714,2024-04-18, Netherlands ,Paid Social,1958
+1715,2025-01-23,Greece,Paid Social,1960
+1716,2024-10-25,Italy,Referral,1964
+1717,2025-01-27,Greece,Email,1965
+1718,2025-04-13,Austria,Organic Search,1962
+1719,2025-02-24,Spain,Referral,1961
+1720,2025-09-06,Cyprus,Paid Search,1956
+1721,2025-07-07,Germany,Organic Search,
+1722,2025-04-29,Deutschland,Organic Search,1991
+1723,2025-04-21,Greece,Referral,1963
+1724,2025-12-12,ITALY,Email,1971
+1725,2025-01-02,Italy,Paid Social,2004
+1726,2024-07-21,Germany,Paid Social,1963
+1727,2024-10-19,Greece,Referral,2005
+1728,2025-05-23,Spain,Paid Social,1981
+1729,2025-03-26,Greece,Organic Search,1991
+1730,2025-04-10,Germany,Organic Search,1900
+1731,2025-07-08,Greece,Paid Social,1971
+1732,2025-12-25,Greece,Paid Search,1975
+1733,2025-06-01,Greece,Email,1961
+1734,2024-06-29,Greece,Paid Social,1971
+1735,2025-06-28,Germany,Paid Search,2000
+1736,2025-09-30,Germany,Paid Social,1955
+1737,2025-04-14,Italy,Paid Social,1984
+1738,2025-07-13,Italy,Organic Search,1990
+1739,2025-10-19,Greece,Referral,1962
+1740,2024-09-28,Greece,Referral,1960
+1741,2024-08-24,Germany,Referral,1983
+1742,2025-04-03,Italy,Paid Social,
+1743,2025-08-21,Germany,Paid Social,2004
+1744,2024-09-15,Greece,Organic Search,1964
+1745,2024-04-29,France,Paid Search,1961
+1746,2025-11-28,Greece,Organic Search,1971
+1747,2025-01-31,Germany,Email,1971
+1748,2025-01-10,Greece,Referral,1963
+1749,2025-04-25,Italy,Organic Search,1988
+1750,2024-09-26,Greece,Paid Social,
+1751,2024-08-27,Italy,Organic Search,1981
+1752,2024-07-21,Greece,Email,1967
+1753,2024-10-04,Germany,Paid Search,1959
+1754,2025-05-22,GR,Paid Social,1958
+1755,2025-01-22,Italy,Paid Search,1957
+1756,2025-12-21,Greece,Organic Search,1999
+1757,2024-12-22,Greece,Paid Social,1968
+1758,2024-10-18,Italy,Paid Search,1970
+1759,2025-10-25,Greece,Paid Search,1984
+1760,2025-10-23,Greece,Paid Social,1959
+1761,2025-06-01,France,Email,1985
+1762,2025-11-26,France,Paid Search,1981
+1763,2024-08-04,Netherlands,Referral,1995
+1764,2024-07-31,Greece,Email,1961
+1765,2024-04-30,Germany,Organic Search,1955
+1766,2024-09-13,France,Organic Search,1994
+1767,2024-12-30,Greece,Email,1973
+1768,2024-06-30,Italy,Paid Social,1958
+1769,2025-08-25,Greece,Organic Search,1983
+1770,2024-01-30,Spain,Organic Search,1978
+1771,2025-09-19,Germany,Paid Social,2003
+1772,2025-02-04,Cyprus,Paid Social,2003
+1773,2025-06-14,Cyprus,Paid Social,1982
+1774,2024-10-21,Greece,Paid Social,1963
+1775,2025-05-21,Greece,Organic Search,1993
+1776,2025-01-25,ITALY,Paid Search,1965
+1777,2025-11-30,Germany,Email,1997
+1778,2025-08-30,Germany,Organic Search,1985
+1779,2024-10-28,Greece,Paid Social,1973
+1780,2025-12-17,Italy,Paid Social,2004
+1781,2025-06-19,Greece,,1981
+1782,2025-03-29,Greece,Email,
+1783,2024-03-11,Spain,Email,1964
+1784,2024-07-23,Germany,Email,1988
+1785,2024-07-01,Germany,Organic Search,1968
+1786,2025-06-19,Austria,Paid Social,1962
+1787,2025-07-13,Greece,Organic Search,1961
+1788,2025-08-31,Spain,Paid Social,
+1789,2025-07-14,Italy,Paid Social,2001
+1790,2024-12-28,Germany,Referral,1967
+1791,2025-11-30,Greece,Organic Search,1966
+1792,2024-03-23,Greece,Email,1986
+1793,2025-07-23,Cyprus,Paid Social,1962
+1794,2025-09-04,Greece,Paid Social,1959
+1795,2025-06-12,Greece,Referral,
+1796,2024-12-17,Germany,Organic Search,1981
+1797,2025-12-16,Italy,Paid Social,1956
+1798,2024-09-14,Greece,Paid Social,1967
+1799,2024-12-22,Italy,Referral,1965
+1800,2025-06-07,Spain,Organic Search,1989
+1801,2024-06-30,Italy,Paid Search,1988
+1802,2024-09-27,France,Paid Search,1993
+1803,2024-11-14,Italy,Referral,1960
+1804,2025-10-25,Greece,Organic Search,1998
+1805,2024-07-17,Greece,Email,1965
+1806,2025-06-01, Spain ,Organic Search,2005
+1807,2025-05-02,Italy,Paid Search,1999
+1808,2025-01-12,France,Paid Social,1978
+1809,2025-01-11,Austria,Organic Search,1995
+1810,2025-05-27,Greece,Paid Social,1989
+1811,2025-06-06,Greece,Referral,1994
+1812,2025-03-31,Germany,Paid Search,1955
+1813,2024-12-15,Greece,Paid Social,
+1814,2024-02-17,Germany,Paid Social,2001
+1815,2024-12-10,France,Referral,1994
+1816,2025-07-18,Germany,Paid Search,
+1817,2025-09-21,Greece,Referral,1970
+1818,2025-09-14,Italy,Paid Social,1976
+1819,2024-12-03,Greece,Email,1975
+1820,2025-05-19,Netherlands,Paid Search,1977
+1821,2025-10-05,Greece,Organic Search,1987
+1822,2025-01-28,Netherlands,Paid Social,1993
+1823,2025-06-06,Cyprus,,1974
+1824,2025-03-31,Cyprus,Paid Social,1997
+1825,2024-03-01,Deutschland,Referral,1959
+1826,2024-05-23,Greece,Organic Search,1996
+1827,2024-10-11,Cyprus,Paid Social,1989
+1828,2025-11-23,Netherlands,Organic Search,1981
+1829,2025-04-30,France,Paid Search,1974
+1830,2025-03-12,Greece,Paid Search,
+1831,2025-03-31,Italy,Paid Social,1973
+1832,2025-03-28,Netherlands,Referral,
+1833,2024-06-07,France,Organic Search,1956
+1834,2024-12-26,Cyprus,Paid Search,1987
+1835,2025-04-13,Greece,Referral,2005
+1836,2024-05-21,Spain,Organic Search,1982
+1837,2025-09-08,Greece,Paid Search,1987
+1838,2024-07-17,Greece,Organic Search,1985
+1839,2025-01-06,France,Email,1980
+1840,2025-07-24,Greece,Organic Search,1987
+1841,2025-12-20,France,Referral,2001
+1842,2025-04-29,Greece,Organic Search,1991
+1843,2024-11-08,Italy,Organic Search,1998
+1844,2024-06-26,Austria,Paid Social,1983
+1845,2024-01-05, Austria ,Paid Search,1994
+1846,2025-07-17,Spain,Organic Search,1999
+1847,2025-11-05,Netherlands,Email,1965
+1848,2025-06-05,Greece,Paid Social,1998
+1849,2025-04-06,Austria,Paid Search,1990
+1850,2024-04-22,Spain,Organic Search,1977
+1851,2025-02-19,Germany,Email,1994
+1852,2024-10-30,Greece,Paid Search,1963
+1853,2024-05-04, Greece ,Paid Social,1990
+1854,2024-09-22,Germany,Paid Social,1984
+1855,2025-06-25,Italy,Paid Search,2000
+1856,2025-03-13,Greece,Paid Social,1986
+1857,2025-10-08,Greece,Paid Social,1981
+1858,2025-09-20,Germany,Paid Social,1981
+1859,2024-07-14,Greece,Referral,1983
+1860,2025-10-15,Spain,Paid Search,2000
+1861,2024-06-20,Greece,Email,
+1862,2024-09-07,Greece,Email,1959
+1863,2025-11-16,Greece,Paid Social,1982
+1864,2024-07-29,Netherlands,,1969
+1865,2025-09-08,Netherlands,Organic Search,
+1866,2025-05-27,Greece,Organic Search,1999
+1867,2024-07-08,Greece,Organic Search,1998
+1868,2025-07-27,Cyprus,Email,2002
+1869,2024-05-27,Greece,Organic Search,1975
+1870,2024-07-07,Italy,Organic Search,1976
+1871,2025-10-08,Greece,Paid Social,1994
+1872,2025-10-01,Germany,Organic Search,1964
+1873,2025-03-16,GR,Organic Search,1957
+1874,2025-02-03,Cyprus,Organic Search,1976
+1875,2025-04-10,Cyprus,Organic Search,1987
+1876,2024-10-29,Greece,Paid Social,
+1877,2024-02-02,Greece,Referral,1965
+1878,2025-03-29,Greece,Paid Search,1981
+1879,2025-04-25,Greece,Referral,2003
+1880,2025-01-24,Austria,Email,1968
+1881,2025-12-15,Greece,Paid Search,1975
+1882,2025-06-21,Greece,Paid Social,1970
+1883,2025-09-29,Greece,Email,1969
+1884,2024-11-01,France,Paid Social,1988
+1885,2024-09-25,Spain,Paid Social,1974
+1886,2025-09-29,France,Paid Social,1986
+1887,2025-12-15,Germany,Organic Search,1956
+1888,2025-11-16,France,Referral,1988
+1889,2024-11-03,Greece,Organic Search,1960
+1890,2025-07-11,Netherlands,Email,1974
+1891,2025-09-23,France,Paid Search,1999
+1892,2025-08-15,Greece,Paid Social,1972
+1893,2025-08-30,Cyprus,Organic Search,1990
+1894,2024-03-10,Greece,Paid Social,1972
+1895,2025-03-29,Greece,Paid Social,2001
+1896,2024-03-14,Netherlands,Paid Search,2003
+1897,2025-12-16,Greece,Email,2001
+1898,2025-08-22,Italy,Referral,
+1899,2025-10-22,Austria,Paid Social,1971
+1900,2024-06-25,Cyprus,Referral,1985
+1901,2025-11-11,Greece,Referral,1996
+1902,2025-04-01,Germany,Organic Search,1981
+1903,2025-01-24,France,Organic Search,1992
+1904,2025-04-11,Greece,Organic Search,1999
+1905,2025-03-28,Greece,Paid Social,1993
+1906,2025-10-21,Germany,Paid Search,1973
+1907,2025-11-27,Spain,Email,1967
+1908,2025-10-25,Greece,Paid Social,1977
+1909,2025-07-12,Greece,Paid Search,
+1910,2024-07-23,Austria,Organic Search,1997
+1911,2024-09-29,Greece,Organic Search,1970
+1912,2024-08-15,Greece,Paid Search,1963
+1913,2024-08-01,Germany,Paid Search,1971
+1914,2025-08-13,Greece,Email,1985
+1915,2025-12-10,Greece,Organic Search,1966
+1916,2025-04-13,Germany,Paid Search,1975
+1917,2025-02-14,Italy,Referral,1968
+1918,2025-05-14,Germany,Email,2005
+1919,2024-12-29,Greece,Organic Search,1981
+1920,2025-11-06,Germany,Paid Social,1991
+1921,2025-08-07,Germany,Paid Search,1981
+1922,2024-02-05,France,Paid Search,1955
+1923,2025-07-26,France,Email,1968
+1924,2025-08-18,Italy,Paid Social,1997
+1925,2024-10-30,Netherlands,Email,1981
+1926,2024-12-28,France,Paid Social,1990
+1927,2025-11-09,Greece,Paid Social,1993
+1928,2024-07-01,Spain,Organic Search,1983
+1929,2025-06-17,Netherlands,,1984
+1930,2024-08-20,Greece,Referral,1967
+1931,2025-09-26,Greece,Organic Search,1967
+1932,2025-10-10,Germany,Organic Search,1962
+1933,2025-07-15,Cyprus,Paid Search,1970
+1934,2024-11-27,Italy,Referral,1987
+1935,2024-12-18,Germany,Organic Search,
+1936,2025-12-07,Greece,Paid Social,
+1937,2025-11-11,Greece,Referral,1985
+1938,2025-04-09,Netherlands,Paid Social,1998
+1939,2024-12-15,Greece,Paid Social,1989
+1940,2025-07-13,Italy,Paid Social,
+1941,2024-09-27,Greece,Organic Search,1969
+1942,2025-12-21,Cyprus,Referral,1987
+1943,2025-05-08,Germany,Organic Search,1969
+1944,2025-06-02,Greece,Paid Social,1967
+1945,2025-09-25,Italy,Organic Search,1985
+1946,2025-07-18,Italy,Organic Search,1987
+1947,2025-09-25,Greece,Organic Search,1967
+1948,2024-12-31,Greece,Paid Search,
+1949,2024-10-02,Italy,Organic Search,1994
+1950,2025-12-08,Italy,Organic Search,1974
+1951,2025-09-11,Germany,Organic Search,1987
+1952,2024-08-12,France,Referral,1963
+1953,2024-09-19,Greece,Paid Social,1971
+1954,2025-10-06,Greece,Paid Search,1985
+1955,2025-03-29,Italy,Email,1961
+1956,2025-03-01,Italy,Paid Social,1971
+1957,2025-08-02,France,Email,
+1958,2025-12-07,Greece,Organic Search,1994
+1959,2025-04-08,Germany,Paid Search,1973
+1960,2025-06-15,Italy,Paid Search,1960
+1961,2025-10-09,Greece,Organic Search,1956
+1962,2024-10-04,Germany,Email,1983
+1963,2025-04-14,Germany,Organic Search,1990
+1964,2025-07-07,Greece,Paid Social,1985
+1965,2025-10-28,Greece,Referral,
+1966,2025-05-30,Greece,Paid Search,1956
+1967,2025-02-04,Spain,Paid Social,1966
+1968,2024-10-30,Greece,Email,1956
+1969,2025-03-20,Greece,Referral,1978
+1970,2025-10-29,Greece,Organic Search,
+1971,2024-11-25,Greece,Email,1958
+1972,2024-06-30,Greece,Email,1986
+1973,2025-09-17,Germany,Referral,1973
+1974,2024-05-28, Greece ,Paid Search,2004
+1975,2025-11-07,Greece,Organic Search,1976
+1976,2025-08-24,Greece,Organic Search,1959
+1977,2025-10-09,Greece,Organic Search,1990
+1978,2024-05-18,Greece,Organic Search,1990
+1979,2025-02-09,Germany,Paid Social,2002
+1980,2025-10-25,Italy,Paid Search,1990
+1981,2024-06-20,Italy,Paid Social,
+1982,2025-12-07,Greece,Email,1989
+1983,2024-12-29,Netherlands,Paid Social,1995
+1984,2024-11-30,Italy,Paid Social,1981
+1985,2024-12-26,Greece,Paid Search,1995
+1986,2025-11-30,Cyprus,Email,2004
+1987,2024-08-16,France,Paid Social,1993
+1988,2025-02-22,Greece,Paid Search,1980
+1989,2024-10-15,Greece,Paid Social,1980
+1990,2024-06-23,Germany,Organic Search,1997
+1991,2025-06-04,Greece,Paid Social,1999
+1992,2025-04-05,Austria,Email,1968
+1993,2024-08-14,Greece,Paid Social,1955
+1994,2024-08-17,Greece,Paid Search,1996
+1995,2025-02-03,Greece,Paid Social,1967
+1996,2025-08-07,Greece,,2005
+1997,2025-06-09,Netherlands,Paid Search,1956
+1998,2025-05-12,France,Paid Social,2001
+1999,2025-01-11,Spain,Paid Social,1989
+2000,2024-11-09,Germany,Organic Search,1970
+2001,2024-07-10,Cyprus,Paid Social,1956
+2002,2024-08-24,Greece,Paid Social,1998
+2003,2025-12-07,Greece,Organic Search,1961
+2004,2025-11-07,Spain,Email,1959
+2005,2024-05-27,Cyprus,Organic Search,1995
+2006,2025-09-07,Cyprus,Organic Search,1989
+2007,2025-03-09,Germany,Email,1961
+2008,2025-11-13,France,Organic Search,1972
+2009,2024-02-10,Greece,Email,1988
+2010,2025-06-17,Italy,Email,1988
+2010,2025-06-17,Italy,Email,1988
+2011,2025-03-19,Italy,Paid Social,1973
+2012,2025-02-20,Netherlands,Organic Search,1976
+2013,2025-01-28,Greece,Paid Social,1959
+2014,2025-08-14,Greece,Organic Search,1955
+2015,2024-11-17,Cyprus,Paid Social,2004
+2016,2024-02-09,Netherlands,Referral,1966
+2017,2024-08-09,Austria,Email,2002
+2018,2024-03-19,Germany,Paid Social,
+2019,2025-11-05,Greece,Paid Search,2005
+2020,2025-03-24,Greece,Organic Search,1976
+2021,2025-01-04,Germany,Paid Search,1996
+2022,2025-09-13,Greece,Referral,
+2023,2025-02-22,Germany,Paid Social,1972
+2024,2024-07-01,France,Organic Search,1992
+2025,2025-06-22,Greece,Organic Search,1972
+2026,2024-03-11,Greece,Paid Search,1995
+2027,2024-04-17,Greece,Organic Search,2003
+2028,2024-01-13,Greece,Paid Search,1996
+2029,2024-08-03,Italy,Paid Social,1992
+2030,2025-10-01,GR,Paid Social,1973
+2031,2025-07-07,Greece,Email,1960
+2032,2025-05-26,Greece,Organic Search,1980
+2033,2024-12-02,Greece,Paid Social,1961
+2034,2024-10-29,Italy,Paid Search,1980
+2035,2024-06-18,Germany,Organic Search,1999
+2036,2025-05-15,Germany,Paid Search,1960
+2037,2024-04-10,Germany,Paid Search,
+2038,2024-05-09,Greece,Organic Search,1985
+2039,2025-09-18,Germany,Paid Social,1957
+2040,2024-10-26,Greece,Organic Search,1991
+2041,2024-12-17,Spain,Email,1955
+2042,2025-01-08,Greece,Paid Search,1986
+2043,2024-10-24,Cyprus,Paid Search,
+2044,2024-07-26,Greece,Paid Search,1993
+2045,2025-04-03,France,Organic Search,1974
+2046,2025-03-02,Greece,Paid Social,1961
+2047,2024-07-30,Spain,Organic Search,1974
+2048,2025-09-03,GREECE,Paid Search,1993
+2049,2024-12-07,France,Organic Search,2003
+2050,2024-08-19,Italy,Organic Search,1965
+2051,2025-06-04,Greece,Organic Search,1972
+2052,2025-10-11,Greece,Organic Search,1999
+2053,2025-03-09,Greece,,1970
+2054,2024-04-14,FRANCE,Organic Search,1967
+2055,2025-11-07,Netherlands,Paid Search,
+2056,2025-08-18,Greece,Referral,1980
+2057,2025-03-31,Greece,Organic Search,1984
+2057,2025-03-31,Greece,Organic Search,1984
+2058,2024-08-24,Greece,Referral,1979
+2059,2025-06-27,Greece,Paid Social,1985
+2060,2025-01-08,Germany,Referral,1968
+2061,2024-03-19,Greece,Paid Social,
+2062,2025-05-06,Greece,Email,1973
+2063,2024-05-13,Netherlands,Paid Social,1981
+2064,2025-01-02,Italy,Organic Search,1964
+2065,2024-01-22,France,Email,1955
+2066,2025-09-28,Greece,Referral,
+2067,2024-11-24,Spain,Referral,1962
+2068,2024-10-08,Germany,Paid Social,2001
+2069,2025-10-07,Germany,Paid Social,2003
+2070,2025-08-07,Greece,Referral,1971
+2071,2025-06-12,Netherlands,Organic Search,1969
+2072,2025-11-10,Germany,Organic Search,1980
+2073,2024-02-16,France,Paid Social,1965
+2074,2024-08-14,Italy,Organic Search,1998
+2075,2025-07-13,France,Paid Social,1960
+2076,2025-02-19,Italy,Organic Search,1978
+2077,2025-09-06,Spain,Email,1964
+2078,2024-02-12,Greece,Email,1997
+2079,2025-02-01,Greece,Referral,1962
+2080,2025-11-10,Italy,Email,1977
+2081,2025-07-31,Germany,Paid Social,1997
+2082,2025-08-13,Germany,Paid Search,
+2083,2025-07-19,Italy,Referral,1964
+2084,2024-02-24,Germany,Paid Social,1963
+2085,2025-07-16,France,Organic Search,1985
+2086,2025-05-10,Greece,Email,1961
+2087,2025-03-19,Netherlands,Email,1973
+2088,2025-10-30,Greece,Email,1986
+2089,2025-12-13,Germany,Referral,1974
+2090,2025-02-10,Netherlands,Paid Search,1997
+2091,2025-01-04,Greece,Paid Search,1990
+2092,2025-01-29,Greece,Email,1961
+2093,2024-03-08,Greece,Paid Search,1996
+2094,2025-09-09,Germany,Paid Search,2001
+2095,2024-05-16,Greece,Organic Search,1965
+2096,2025-06-29,Greece,Email,1973
+2097,2024-09-24,Netherlands,Organic Search,1975
+2098,2025-07-12,Greece,Organic Search,1976
+2099,2025-05-11,Germany,Organic Search,
+2100,2025-03-28,Germany,Paid Social,2000
+2101,2025-08-05,Greece,Organic Search,1988
+2102,2024-03-15,Greece,Organic Search,2000
+2103,2024-12-21,Austria,Organic Search,1972
+2104,2025-03-23,Italy,Email,1981
+2105,2025-04-16,Greece,Paid Search,1960
+2106,2024-06-27,France,Paid Search,1969
+2107,2024-10-10,Germany,Paid Social,1984
+2108,2024-07-15,Greece,Organic Search,1963
+2109,2025-11-03,Italy,Paid Search,
+2110,2025-11-24,Cyprus,Organic Search,1968
+2111,2024-12-08,Greece,Paid Search,1963
+2112,2025-12-24,Netherlands,Referral,1994
+2113,2024-10-05,Greece,Paid Social,1959
+2114,2025-06-04,Greece,Organic Search,
+2115,2025-04-16,Greece,Organic Search,1965
+2116,2025-08-03,France,Paid Social,1990
+2117,2025-04-15,Italy,Paid Social,1998
+2118,2025-03-24,Spain,Paid Search,1964
+2119,2024-05-29,GR,Email,
+2120,2024-07-23,France,Paid Social,1979
+2121,2025-05-28,Germany,Organic Search,1990
+2122,2025-04-12,GR,Paid Social,1972
+2123,2024-03-23,Greece,Organic Search,1981
+2124,2025-02-08,France,Email,1980
+2125,2024-06-11,Greece,Email,1955
+2126,2025-08-14,Germany,Referral,1984
+2127,2025-01-16,Germany,Paid Social,1983
+2128,2025-02-21,Greece,Organic Search,2005
+2129,2024-12-22,Austria,Paid Search,1981
+2130,2024-04-20,France,Email,2000
+2131,2025-05-17,Cyprus,Referral,1972
+2132,2025-09-05,Italy,Paid Social,1990
+2133,2024-11-03,Cyprus,Paid Search,2000
+2134,2024-07-02,Italy,Organic Search,1962
+2135,2024-10-06,Greece,Paid Social,1983
+2136,2024-07-22,Cyprus,Referral,2001
+2137,2024-02-26,Greece,,1983
+2138,2025-11-05,Cyprus,Referral,2000
+2139,2025-03-07,Cyprus,Paid Social,1976
+2140,2025-10-05,Greece,Organic Search,2000
+2141,2025-09-21,Austria,Organic Search,
+2142,2024-07-10,Greece,Paid Search,1979
+2143,2024-02-10,Greece,Referral,
+2144,2024-03-08,Greece,Organic Search,1900
+2145,2024-04-23,Germany,Organic Search,1969
+2146,2025-06-20,Greece,Organic Search,1993
+2147,2024-08-21,Germany,Organic Search,1978
+2148,2024-08-06,Italy,,
+2149,2025-01-20,Greece,Organic Search,1978
+2150,2025-01-06,Austria,Organic Search,1972
+2151,2024-05-07,Greece,Organic Search,1996
+2152,2024-02-27,Germany,Email,1974
+2153,2025-12-16,Greece,Email,1979
+2154,2024-09-24,Italy,Email,1983
+2155,2024-07-11,Netherlands,Email,1987
+2156,2025-12-07,Greece,Paid Search,
+2157,2025-07-11,Greece,Paid Social,1958
+2158,2024-12-31,Greece,Paid Search,1990
+2159,2024-07-24,Greece,Email,1983
+2160,2025-10-09,Austria,Organic Search,
+2161,2024-10-03,Germany,Referral,1982
+2162,2025-09-08,Germany,Email,1980
+2163,2025-06-04,Spain,Email,2003
+2164,2025-08-16,France,Organic Search,1957
+2165,2025-09-16,France,Paid Social,1959
+2166,2025-03-15,Greece,Paid Search,2002
+2167,2025-02-08,Greece,Organic Search,2000
+2168,2024-08-13,Greece,Organic Search,1975
+2169,2024-08-16,Greece,Organic Search,1982
+2170,2025-05-31,Greece,Paid Social,1977
+2171,2025-02-13,Greece,Paid Search,
+2172,2024-06-05,Greece,Email,1978
+2173,2025-02-27,Cyprus,Paid Search,1993
+2174,2025-07-25,Greece,Paid Social,1973
+2175,2024-05-30,Greece,Paid Social,1974
+2176,2024-11-11,Greece,Organic Search,1989
+2177,2024-09-11,Cyprus,Organic Search,1975
+2178,2025-02-06,Italy,Referral,1955
+2179,2024-12-17,Italy,Organic Search,1963
+2180,2025-01-13,Greece,Organic Search,1999
+2181,2025-04-16,Greece,Paid Search,1973
+2182,2024-12-06,Greece,Email,1960
+2183,2024-11-14,Greece,Organic Search,2002
+2184,2025-06-10,Greece,Referral,2005
+2185,2024-02-29,Austria,Paid Social,1980
+2186,2024-09-29,Greece,Paid Search,1987
+2187,2025-03-09,Greece,Email,1993
+2188,2025-04-17,Italy,Organic Search,1958
+2189,2024-12-27,Germany,Organic Search,
+2190,2024-06-22, Greece ,Organic Search,1983
+2191,2024-08-09,Greece,Referral,1983
+2192,2024-06-17,Spain,Paid Social,1971
+2193,2025-06-19,Greece,Referral,1955
+2194,2025-10-22,Germany,Paid Social,2003
+2195,2024-02-13,France,Paid Social,
+2196,2025-10-03,GREECE,Organic Search,1993
+2197,2025-02-04,Italy,,1977
+2198,2025-07-12,Greece,Paid Social,1980
+2199,2025-04-08,Greece,Email,1977
+2200,2025-11-08,Greece,Paid Search,1976
+2201,2025-09-21,Austria,Organic Search,1989
+2202,2024-08-28,GR,Email,2005
+2203,2024-04-17,Greece,Organic Search,1994
+2204,2025-03-04,Spain,Referral,1989
+2205,2025-06-12,Greece,Organic Search,1955
+2206,2024-12-02,Netherlands,Email,1981
+2207,2025-03-07,Italy,Organic Search,2003
+2208,2024-10-06,Germany,Organic Search,1975
+2209,2025-09-20,France,,1983
+2210,2024-01-27,Italy,Paid Social,1971
+2211,2024-11-29,Greece,Paid Social,1964
+2212,2025-05-30,Austria,Paid Social,1990
+2213,2024-09-18,Spain,Paid Search,1970
+2214,2025-07-31,Netherlands,Organic Search,1984
+2215,2025-08-14,GERMANY,Paid Social,1985
+2216,2025-02-05,Germany,Paid Search,1998
+2217,2025-07-25,Germany,Email,2002
+2218,2024-06-29,Greece,Paid Social,1983
+2219,2024-11-22,Cyprus,Email,1957
+2220,2025-09-22,Germany,Organic Search,1984
+2221,2025-08-10,Italy,Paid Social,2000
+2222,2024-03-26,Greece,Paid Social,1979
+2223,2024-06-03,Cyprus,Referral,1983
+2224,2025-05-30,Germany,Paid Search,1993
+2225,2025-07-26,Cyprus,Organic Search,
+2226,2024-02-20,Austria,Organic Search,1976
+2227,2024-06-01,Italy,Paid Social,1979
+2228,2024-08-27,Greece,Paid Social,1998
+2229,2025-11-09,Greece,Paid Social,1979
+2230,2025-11-13,Italy,Email,1971
+2231,2025-03-06,Greece,Paid Social,1985
+2232,2025-10-26,France,Paid Search,1990
+2233,2024-10-26,Greece,Paid Social,2001
+2234,2025-12-22,Greece,Organic Search,2000
+2235,2024-09-29,Greece,Paid Social,1994
+2236,2024-05-14,Italy,Email,1994
+2237,2025-08-11,Austria,Organic Search,1977
+2238,2025-02-19,Netherlands,Organic Search,1972
+2239,2024-12-01,Cyprus,Paid Social,1983
+2240,2024-12-10,France,Referral,1991
+2241,2025-03-02,Greece,Paid Search,1981
+2242,2025-12-07,Germany,Paid Social,1965
+2243,2025-05-23,Spain,Organic Search,1955
+2244,2025-12-13,Greece,Paid Social,1957
+2245,2024-08-06,Austria,Paid Social,1976
+2246,2025-11-15,Greece,Paid Search,1995
+2247,2025-01-15,Greece,Paid Social,1995
+2248,2025-12-18,Germany,Email,1996
+2249,2024-10-14,Spain,Paid Search,1991
+2250,2025-09-16,Greece,Email,
+2251,2025-09-12,FRANCE,Organic Search,2000
+2252,2025-05-02,Greece,Email,2003
+2253,2025-08-21,Italy,Paid Social,1998
+2254,2025-08-09,Germany,Paid Social,1977
+2255,2024-11-22,Greece,,1965
+2256,2024-11-06,Italy,Organic Search,2001
+2257,2024-08-14,Italy,Paid Social,1964
+2258,2025-11-14,Germany,Organic Search,1995
+2259,2024-11-30,GREECE,Organic Search,2004
+2260,2025-08-01,Greece,Email,2000
+2261,2024-02-11,Spain,Referral,1981
+2262,2024-11-28,Italy,Email,1997
+2263,2025-01-10,France,Paid Social,1997
+2263,2025-01-10,France,Paid Social,1997
+2264,2024-04-25,Italy,Organic Search,2004
+2265,2025-03-16,France,Paid Social,
+2266,2025-03-29,Greece,Paid Social,1987
+2267,2025-12-09,Cyprus,Referral,1996
+2268,2025-01-29,Italy,Email,1966
+2269,2024-07-19,Greece,Paid Search,1966
+2270,2025-08-04,GR,Referral,1974
+2271,2024-03-24,Germany,Paid Social,
+2272,2025-05-11,Netherlands,Email,1993
+2273,2024-07-20,Italy,Referral,2002
+2274,2024-07-05,Greece,Paid Search,1963
+2275,2024-08-10,Austria,Paid Social,1971
+2276,2024-05-04,Greece,Email,2002
+2277,2024-10-05,Greece,Paid Social,1985
+2278,2025-12-06,Austria,Referral,1965
+2279,2025-11-16,France,Paid Search,1985
+2280,2025-04-20,Spain,Paid Search,1999
+2281,2025-08-30,France,Organic Search,1974
+2282,2025-02-23,Italy,Organic Search,1979
+2283,2025-08-26,Greece,Referral,1986
+2284,2024-09-10,Greece,Email,1997
+2285,2024-07-04,Spain,Paid Search,1983
+2286,2025-07-29,Netherlands,Paid Social,2003
+2287,2025-08-11,Greece,Paid Search,1993
+2288,2025-01-14,Greece,Email,1976
+2289,2024-07-10,Greece,Organic Search,1979
+2290,2024-06-28,Greece,Organic Search,1990
+2291,2025-01-14,Netherlands,,1958
+2292,2025-12-03,Greece,Organic Search,1966
+2293,2025-02-12,Cyprus,,1967
+2294,2025-12-23,Spain,Email,1995
+2295,2024-06-06,Germany,Paid Social,1996
+2296,2024-07-27,Cyprus,Organic Search,1996
+2297,2025-08-01,Greece,Paid Search,1960
+2298,2024-07-02,Greece,Referral,1970
+2298,2024-07-02,Greece,Referral,1970
+2299,2025-01-15,Greece,Referral,1970
+2300,2024-11-04,Greece,Referral,1956
+2301,2025-07-18,Greece,Email,1968
+2302,2025-05-19,Greece,Paid Search,1976
+2303,2025-08-22,Greece,Email,2000
+2304,2025-01-25,Greece,Paid Social,1963
+2305,2025-07-11,Spain,Organic Search,1998
+2306,2025-06-30,Greece,Organic Search,1996
+2307,2024-03-10,Greece,Referral,1963
+2308,2025-09-04,Netherlands,Paid Social,1968
+2309,2025-12-17,Greece,Referral,1978
+2310,2025-12-22,Cyprus,Paid Search,2003
+2311,2025-04-26,Netherlands,Paid Social,1995
+2312,2025-08-10,Germany,Organic Search,
+2313,2024-02-24,Greece,Email,1970
+2314,2025-11-26,Italy,Organic Search,2001
+2315,2024-07-26,Italy,Referral,2003
+2316,2025-06-04,Greece,Paid Social,1985
+2317,2025-02-18,Greece,Paid Social,1962
+2318,2024-10-23,GR,Email,1968
+2319,2024-07-29,France,Paid Social,1961
+2320,2025-02-07,Greece,Paid Social,1996
+2321,2025-12-09,Greece,Organic Search,1970
+2322,2024-08-10,Germany,Paid Social,1990
+2323,2025-03-28,Spain,Paid Search,1968
+2324,2025-12-02,Greece,Organic Search,
+2325,2024-12-22,Greece,Paid Social,1994
+2326,2024-10-30,Greece,Organic Search,1974
+2327,2024-10-02,Italy,Paid Social,1979
+2328,2024-08-26,Cyprus,Organic Search,1957
+2329,2025-12-22,Netherlands,Referral,1961
+2330,2025-10-06,Greece,Organic Search,2005
+2331,2024-02-12,Greece,Email,1996
+2332,2025-04-06,Greece,Organic Search,1997
+2333,2025-02-28,Greece,Paid Social,1987
+2334,2025-01-04,Cyprus,Organic Search,1966
+2335,2025-10-30,France,Referral,1960
+2336,2025-02-18,Greece,Paid Search,1992
+2337,2025-06-01,Italy,Organic Search,1971
+2338,2025-12-10,Greece,Paid Search,1955
+2339,2024-08-29,Germany,Paid Social,1956
+2340,2024-09-29,Greece,Email,1983
+2341,2025-07-16,Germany,Referral,1997
+2342,2025-04-14,Greece,Organic Search,1973
+2343,2025-07-26,Spain,Paid Social,2005
+2344,2025-05-12,Spain,Organic Search,1974
+2345,2025-07-18,France,Email,1992
+2346,2025-08-03,Netherlands,Paid Social,1967
+2347,2025-04-04,Greece,Paid Search,1985
+2348,2025-01-27,Germany,Organic Search,1969
+2349,2025-12-04,Greece,Paid Search,1994
+2350,2024-06-09,Netherlands,,
+2351,2024-11-04,Greece,Email,1957
+2352,2024-12-03,Greece,Paid Social,1967
+2353,2024-10-08,Italy,Organic Search,
+2354,2025-11-18,Greece,Organic Search,1978
+2355,2024-04-01,Italy,Email,1968
+2356,2024-05-04,Greece,Organic Search,1984
+2357,2024-09-10,Italy,Email,2004
+2358,2024-06-08,Netherlands,Paid Search,1991
+2359,2025-07-14,Germany,Paid Social,1970
+2360,2025-07-22,Greece,Organic Search,1989
+2361,2025-09-19,Greece,Organic Search,2004
+2362,2025-07-02,Greece,Organic Search,1967
+2363,2025-05-22,Greece,Paid Social,1966
+2364,2024-02-06, Germany ,Referral,1956
+2365,2025-07-07,Greece,Organic Search,1997
+2366,2024-11-05,Greece,Organic Search,
+2367,2024-08-22,Greece,Email,1976
+2368,2025-11-26,Spain,Paid Social,1999
+2369,2025-10-16,Greece,Email,1988
+2369,2025-10-16,Greece,Email,1988
+2370,2025-02-03,Greece,Paid Search,2004
+2371,2025-07-30,Cyprus,Organic Search,2002
+2372,2025-03-10,Greece,Paid Social,2003
+2373,2024-12-01,Spain,Referral,1975
+2374,2025-10-10,Greece,Email,1987
+2375,2025-04-09,Italy,Referral,1963
+2376,2025-09-09,Germany,Referral,2000
+2377,2025-10-18,France,Paid Social,1971
+2378,2024-04-15,Italy,Paid Social,1977
+2379,2025-07-22,France,Referral,1985
+2380,2025-05-01,Cyprus,Email,1995
+2381,2024-11-26,Cyprus,Email,1992
+2382,2025-12-01,Italy,Paid Social,2003
+2383,2025-04-22,Germany,Paid Search,1991
+2384,2024-11-20,Germany,Organic Search,1995
+2385,2025-08-22,Greece,Organic Search,1984
+2386,2025-04-18,Greece,Paid Social,
+2387,2025-05-21,Greece,Organic Search,2001
+2388,2024-11-22,Greece,Email,1974
+2389,2025-01-18,Greece,Organic Search,1986
+2390,2025-02-10,Greece,Email,1969
+2391,2024-10-04,Germany,Paid Social,1979
+2392,2024-08-25,Italy,Organic Search,1973
+2393,2024-07-04,Germany,Organic Search,1968
+2394,2025-09-29,Italy,Paid Social,1996
+2395,2024-05-18,Greece,Referral,1994
+2396,2024-05-26,Greece,Paid Social,1990
+2397,2025-07-08,Italy,Organic Search,1959
+2398,2025-01-04,France,Organic Search,1967
+2399,2024-07-21,Italy,Organic Search,1966
+2400,2025-06-18,Italy,Organic Search,1991
+2401,2025-11-26,Italy,Paid Search,2000
+2402,2024-09-07,Italy,Organic Search,1974
+2403,2025-12-04,Italy,Organic Search,1971
+2404,2025-08-20,Italy,Paid Search,1983
+2405,2024-09-19,Greece,Email,2005
+2406,2024-04-19,Greece,Paid Social,1973
+2407,2025-09-11,Greece,Email,
+2408,2025-12-05,Germany,Paid Search,
+2409,2025-08-07,France,Organic Search,2001
+2410,2024-01-30,Greece,Organic Search,1992
+2411,2024-08-24,Greece,Paid Search,1981
+2411,2024-08-24,Greece,Paid Search,1981
+2412,2024-03-20,France,Referral,1992
+2413,2025-08-28,Greece,Paid Search,1955
+2414,2024-10-02,France,Paid Social,1993
+2415,2025-09-19,Greece,Paid Search,1959
+2416,2025-07-17,Greece,Paid Social,1974
+2417,2024-03-31,Greece,Referral,1972
+2418,2024-02-28,Greece,Paid Search,1990
+2419,2025-10-02,Greece,Organic Search,1967
+2420,2024-12-27,Greece,Organic Search,1967
+2421,2025-09-19,Greece,Email,2000
+2422,2024-01-24,Greece,Paid Search,1979
+2423,2025-12-17,France,,1992
+2424,2024-02-16,Greece,Paid Search,1984
+2425,2025-07-23,Greece,Paid Social,1986
+2426,2024-08-17,Greece,Paid Social,1990
+2427,2025-07-05,Spain,Paid Social,1989
+2428,2024-07-23,France,Paid Search,1900
+2429,2024-09-05,Austria,Organic Search,1995
+2430,2025-07-13,Spain,Email,1970
+2431,2024-12-20,Greece,Organic Search,1963
+2432,2024-07-31,Italy,Paid Search,1998
+2433,2025-02-13,Greece,Referral,1973
+2434,2024-08-08,Netherlands,Organic Search,1970
+2435,2025-09-22,Greece,Organic Search,1960
+2436,2025-01-25,Greece,Paid Social,1983
+2437,2025-08-02,Spain,Paid Social,1981
+2438,2025-10-11,FRANCE,Referral,1997
+2439,2025-04-26,Austria,Email,1993
+2440,2024-06-01,Greece,Paid Social,1991
+2441,2025-01-01,Greece,Referral,1982
+2442,2024-11-23,Greece,Paid Social,1999
+2443,2025-02-13,Cyprus,Organic Search,2005
+2444,2025-04-24,Cyprus,Organic Search,1996
+2445,2025-11-28, Greece ,Paid Social,1972
+2446,2025-10-02,France,Email,1969
+2447,2024-10-27,Greece,Organic Search,1955
+2448,2025-04-15,Italy,Email,2005
+2449,2025-03-21,Netherlands,Organic Search,1992
+2450,2025-11-11,Germany,Email,2002
+2451,2024-08-17,Greece,Organic Search,1995
+2452,2025-07-24,GREECE,,1976
+2453,2024-02-16,Greece,Organic Search,1962
+2454,2024-01-23,Italy,Paid Social,
+2455,2025-02-23,Cyprus,Organic Search,1995
+2456,2024-01-20,Greece,Paid Social,1970
+2457,2024-06-04,Austria,Referral,1974
+2458,2025-04-27,Italy,Organic Search,1997
+2459,2024-10-10,Netherlands,Referral,1979
+2460,2025-11-07,Cyprus,Email,2003
+2461,2024-11-19,Spain,Paid Social,1982
+2462,2025-07-29,Greece,Email,1997
+2463,2024-10-19,Greece,Paid Social,1961
+2464,2025-05-27,Netherlands,Referral,1975
+2465,2025-12-23,Netherlands,Referral,1964
+2466,2025-02-25,Cyprus,Referral,
+2467,2024-08-15,Greece,Organic Search,2005
+2468,2024-08-20,Greece,Email,1981
+2469,2025-05-05,France,Organic Search,1973
+2470,2024-06-14,Netherlands,Paid Social,1974
+2471,2024-10-13,Greece,Organic Search,1967
+2472,2025-10-24,Greece,Organic Search,1961
+2473,2025-04-19,Italy,Email,2001
+2474,2025-08-02,Italy,Paid Search,1960
+2475,2025-03-19,Cyprus,Organic Search,1974
+2476,2024-10-16,Germany,Email,1962
+2477,2024-06-07,Austria,Email,2002
+2478,2024-09-13,Greece,Paid Search,1965
+2479,2025-12-17,Germany,Email,1975
+2480,2024-12-20,Germany,Organic Search,1993
+2481,2025-12-23,Germany,Organic Search,1984
+2482,2025-06-19,Netherlands,Email,1974
+2483,2025-07-30,Germany,Organic Search,1983
+2484,2025-07-11,Germany,Paid Search,1977
+2485,2024-06-06,Greece,Paid Search,1969
+2486,2024-07-17,Italy,Paid Search,1985
+2487,2024-09-25,GREECE,Organic Search,1973
+2488,2025-01-05,Greece,Referral,2003
+2489,2025-09-15,Cyprus,Email,1978
+2490,2025-11-13,Germany,Organic Search,1993
+2491,2025-01-18,Austria,Organic Search,
+2492,2025-04-22,Italy,Organic Search,1987
+2493,2024-07-02,Netherlands,Paid Social,1983
+2494,2024-07-29,Greece,Paid Search,1992
+2495,2025-06-30,Germany,Paid Search,1978
+2496,2025-11-12,Austria,Organic Search,1991
+2497,2025-12-04,Greece,Paid Social,1957
+2498,2025-08-01,France,,1990
+2499,2024-09-22,Germany,Organic Search,
+2500,2025-01-04,Greece,Organic Search,1980
+2500,2025-01-04,Greece,Organic Search,1980
